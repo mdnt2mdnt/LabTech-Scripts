@@ -1,0 +1,70 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5902</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Failed Email Alert Script</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S41VdlOnO/ijd29m9lz54tPvw0d5O+vKLx3e99o9fT+ti1f5kXjdFtQTg8AP9/vN1MTt6uPvwwf18/8H25OHkYHt3N7+3Pcn2P93e2dl9ONs9eLg/nebmfX7h8V1/OL9x8v8AQndvhd4AAAA=</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>91975e47-b9b8-11e3-ba46-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>509</ID>
+					<Form>3</Form>
+					<Name>Exchange Server Name</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Monitoring</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill></Fill>
+					<LtGuid>21ddcded-171e-11e4-868a-0019d1894cce</LtGuid>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>510</ID>
+					<Form>3</Form>
+					<Name>Exchange Server Agent ID</Name>
+					<Sort>0</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Monitoring</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill></Fill>
+					<LtGuid>2da48dbc-171e-11e4-868a-0019d1894cce</LtGuid>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

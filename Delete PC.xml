@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5857</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Delete PC</ScriptName>
+				<ScriptNotes>Script to Delete PC from Labtech</ScriptNotes>
+				<Permission>1,</Permission>
+				<EditPermission>1,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S76zL63Tv01G6t7O7lz54tL/36P799OUXj+96zR+/ntbFqv3JvG6Kagm44Qf6/efrYnZ0Pz8/3919uLs9e3A/297dzXe3H+aTne2dnfs79z/N9u4/PLhn3ucXHt/1R/MbJ/8PdpS6r90AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo/v5+fnu7sPd7dmD+9n27m6+u/0wn+xs7+zc37n/abZ3/+HBPQOFX2Cc9YPGH8HrNl/ZURxPW0VAf9PPn62X/PfZDN95f/mD3O0Meq/z973O3/udv+979Kjq9miH8MVP/eykWrbFcp3jc/u7fvdl87xYFPyK+VW/OVvO8mWb8WDoW/9PnySOChvIsreJLDv3hglztE1U018DCh39ntNqsVoTdxSz31Ob7IVEO3paNNmkzHXqtNG9//9Scu/hBkK+meepEiRViqSv85aGcJEWTfp7hsT6PdPt9DitlnlaLNN2Tg3OIZ3pIs+WTTqr0mXVpvUa3+Vpw+9Qa2m5yKbzYpmPleCdiftA1t79/9KEPNjZMCFdig/w+d4Acxu56PAzxqO/bSLj3v+XyPjpgw1kPMnKMn398vd/mpdkK05UKWz97ua3Yva7jz7mL+nttM6zplp+fOfwZ4U57/0cUNX8rfb1/wHuvRTKbgcAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>5eff1191-d75a-11e1-9eb0-005056a25983</ScriptGuid>
+				<ScriptFlags>1</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

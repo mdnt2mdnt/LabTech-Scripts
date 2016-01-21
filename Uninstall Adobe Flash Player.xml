@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5883</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Uninstall Adobe Flash Player</ScriptName>
+				<ScriptNotes>Uninstalls any version of Adobe Flash Player</ScriptNotes>
+				<Permission>1,2,4,5,</Permission>
+				<EditPermission>1,4,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0qf5NF9M8jp9MEr3dnZ3071H93Ye7TxIX37x+K73yuPX07pYtT+Z101RLQE7/EC//3xdzI4mD2YP9s/37m0/zM/z7d3d/N725N75w+2dnfs79z/N9u6fP9gz7/MLj+/6I/qNk/8Ho8Ihy+EAAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7v3dh/s7R48fHDw+G74TdD883UxO5o8mD3YP9+7t/0wP8+3d3fze9uTe+cPt3d27u/c/zTbu3/+YM9A4RcYef2g8Yfyus1XdjjH05YxeXxXf9PPn62X/PfZDN95f/mj3T06nlWTPH1WZs38d398Vz/0m+x1CHSv8/d+5+/7Hq2quj3aoSHgp352Ui3bYrnO8bn9Xb/7snleLAp+xfyq35wtZ/myzXh89K3/p08lR5gNlNrbRKl7DzfQ6lt40rPzdFm1aZZ+t1jOqqsm/fL1KD19V7Sp9Pn/FirufvpzR8a9DWTsjPRDKbPbpcwHU2b3Z5My9/c3MNjvfkUsVdS/++9bts3l9PddZdO32UXe/L4ZhPRnha/2Bqi3+/9G6dw72EC719V5e5XV+e/LGu33Z432+78ss+u8/n3Xy2LZtFlZ/v7n/PGKPx7n7waIunkibga390Fzcu//S3Oyu/u1GfpmOnanZSdO36NHXy3PBNLjuy/lo/ch+P77q5CfO4JvUq1fm97peVHm6VXWsGk7r9bL2Th9Wl0tyyqbpYvsOp1nl9Qqo2azdFXmWZPTx2/ztFnXeUp9LNt0mi3TmXmnnQvQMZvGYnnxs2kd73/TE/izagI2zqBh8W+WQJ/+f4pAG52wnqx3KfVhlHrwTVPqZ1MX7O59+rOhDLbtd+n2eVVPf3Zcj4NvmtI/mzy5yW37hh3ah/9vo8u9r2uNXlSpF16m4oyJdUnbKv3Kclm1TH/3abVYrSn4XlIM/kGR6CBhd75pwt5CtM3fmo34fwBYZAGZnBAAAA==</ScriptData>
+				<ScriptVersion>1317218978</ScriptVersion>
+				<ScriptGuid>b7d74f23-9efe-11e3-b3f9-005056a25f72</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

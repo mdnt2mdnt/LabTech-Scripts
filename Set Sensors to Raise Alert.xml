@@ -1,0 +1,53 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5833</ScriptId>
+				<FolderId>200</FolderId>
+				<ScriptName>Set Sensors to Raise Alert</ScriptName>
+				<ScriptNotes>This script sets all current locations that are to Create a Ticket to instead Raise Alert</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0i+nbTXJ63Rnd5Tu7ezup/ce7ew9ur+Xvvzi8V3vlcevp3Wxan8yr5uiWgJ2+IF+//m6mB093Jns700fZtv7Dx9Mt3d38/3th9nuve2dnZ3p3sOH5wfT/Ny8zy88vuuP6DdO/h/RpcKb4QAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo4c7k/296cNse//hg+n27m6+v/0w2723vbOzM917+PD8YJqfGyj8AuOsHzT+CF63+cqO4njaKgL6m37+bL3kv89m+M77yx/kbmfQe52/73X+3u/8fd+jR1W3RzuEL37qZyfVsi2W6xyf29/1uy+b58Wi4FfMr/rN2XKWL9uMB0Pf+n/6JHFU2ECWvU1kefjpMGGOXp8+Pz15k5bVlLsuZumzV19+kf4Bl79/Dr6ZEd+Y75o/IP3ut09fnaZ/wNP8PFuXbXpc5nWbvskXqzJr8z8g/Sy9lx6/eOpD+4UX7WG6e/j4rvb383Ya9nY2zMJunD5Hv3vzi0pMQZO3dXU1rdbL9nfXpnumqZDuyM6Sfn/vvUi5+/8pUj7cQMo387zO04z+HyOeZc0mbat0kqfTeba8yGc/K/y59/8lou7e20TVR2++fPmzQqN7/1+i0YNNMtwVwK4s7w0I7k5cYI8enS5nz6tqpV/vD5GRybf/TZNx92eRjLsPH2ygo5PaAUL+npbSv2ecpO/Jgvf/v0S7r2VGfk+iqbPJA1SzDFwYbfh+JuTT/y+RcXfn3gY63tvZ23kwu7ezfW8vewgfdnc7m+6cb9+bPfj04YOHu7v7WX4Tcw7T+TIr1+b19yPxgxiJP4TEP2fK0qfBbRXlvSFF+TpvX2VFk7M7eit1efD/JUJudHeeK7udPU191ktf58umqtVDb9VDT4smXVZtSroV7s+0zvFhlrbF9G3ejtOzFi2m67qmkZTXpt3vybP1e47Si6pYXuCTJQUH458Vf+Dh/5dmZndnQ8wZsVNdTjf6usvp5vMup3ddDGbyQVLu7nzTtPzZ1MgbudwjZVrm58K9ZdY0xfn1zwob7n7jAdHPJu12NxLvZ8133/3/U4ATMyLfMLl+dmKdnyVyfbNWZ8imjNMTBOBqVuqsKBsySHh9a//hnZ8dE7P7jQdLP5ts++mmWOnV6cvnxyen6dmLN1+mnLA7R5IX8dPWH3D29A8YpX/AKT7l1K/8/ZOg+x9wJ/3J4+dfnb5Ot/z5G6X7n9L/H9752cnX7X7jkdbPJuEPNvmvHxAh/O6O4EO5vP2H7xEeePT9GiHY3v7PGYH/X+49fePB1s+mB/D/Mu/p4P9LtPu58p6+oVDnhySsm72nMFf5zRIKKa9vlpt+Ngm10V5Ps7JMvaW1rb3Rx8aXaj7+WTK7e994LPOzSb9b+Z1NOs8uc1q/yZfGoVyT48gOvHqf5+SHijs6kJD/UKr+vyX4uRVVN+q4zkg/mDI/F3GO+fspSdXRb5z8P5tgVq4VIQAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>90b42c9a-497c-11e4-9a13-000c299f8cef</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>401</ID>
+					<Form>1</Form>
+					<Name>Default Sensor Alert Template</Name>
+					<Sort>100</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>2</FType>
+					<Section>Monitoring Overrides</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>~Select Convert(Concat(Name,CHAR(0),AlertActionID) Using UTF8) From AlertTemplate|This field is used by monitors generated at the machine level.|2</Fill>
+					<LtGuid>30207d30-32a9-11e1-ac0f-3d76979114ae</LtGuid>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>200</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Service+</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

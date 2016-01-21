@@ -1,0 +1,69 @@
+﻿<LabTech_Expansion
+	Version="60.239"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6071</ScriptId>
+				<FolderId>3</FolderId>
+				<ScriptName>Prune Offline Machines</ScriptName>
+				<ScriptNotes>Deletes any machines that havent checked in 60 days.
+
+*****BE CAREFUL WITH THIS!!!*****</ScriptNotes>
+				<Permission>1,5,</Permission>
+				<EditPermission>1,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0qf5NF9M8jrdeTBK93Z2d9O9R/d2Hu0cpC+/eHzXe+fx62ldrNqfzOumqJYAHn6g33++LmZH08nk/sN858H27t7B+fbubr6/Pbl3/nB7Z+f+zv1Ps7375w/2zPv8wuO7/pB+4+T/AXvpCiziAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7t7Dx8+eLDz6e7O47vhN0Hzz9fF7Gg6mdx/mO882N7dOzjf3t3N97cn984fbu/s3N+5/2m2d//8wZ6Bwi8w8vpB4w/ldZuv7HCOpy1j8viu/qafP1sv+e+z2dH9x3e9v/zR7h797s0vKqfVYrWmcRez3/3xXf3cb7V39Kl+vhd8fu9oRz+/F3y+36HpfY98Vd3iLf6pn51Uy7ZYrnN8bn/X775snheLgl8xv+o3Z8tZvmwzHjJ96//pE87RagPx9jYQ79MHG6h3kpVl+vrl7/80L4lxTpSOW7+7+Y0oOvqYv6S30zrPmmr58Z3DOJU7VLvX+fv/V1QlwRkma2eg70mYHmF2v2nC7H0gYe5tIsz+pxv47fXp89OTN6kT2NGL4y9OR2XWtFMaSjZt02evvvzCNmjS73779NVp6jf4hWV7mD49fnP6+x8/fbr14svvbt0Znb14c/rqJ4+fp9uf7tB3v8+dAT2wf3/34acPHt7bnmXTKXTYvZgOi6mK/68z86Y528TLR8ekIb4sZ3mdfpFN58Uyb9KnrC1mv+vPihr4/xa3/yyogSHC7P0cEMb8rc7I/wNhBe+tmwgAAA==</ScriptData>
+				<ScriptVersion>1299770610</ScriptVersion>
+				<ScriptGuid>cbb59e07-128f-11e4-b3f9-005056a25f72</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<PackedScript>
+			<NewDataSet>
+				<Table>
+					<ScriptId>6049</ScriptId>
+					<FolderId>3</FolderId>
+					<ScriptName>Auto Created Script Scanning Event Logs</ScriptName>
+					<ScriptNotes>Auto Created Script</ScriptNotes>
+					<Permission>1,2,5,6,9,</Permission>
+					<EditPermission>1,2,5,6,9,</EditPermission>
+					<ComputerScript>1</ComputerScript>
+					<LocationScript>0</LocationScript>
+					<MaintenanceScript>0</MaintenanceScript>
+					<FunctionScript>0</FunctionScript>
+					<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvVnnzSy7HqVfZNfp7r1Rurezu58ePNp9+Gj/Xvryi8d3vcaPX0/rYtX+ZF43RbUE1PAD/f7zdTE72r+/+/DTBw/vbc+y6XR7dze/tz25d/5we2fn/s79T7O9++cP9sz7/MLju/5YfuPk/wEFMzM82wAAAA==</LicenseData>
+					<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo/37uw8/ffDw3vYsm063d3fze9uTe+cPt3d27u/c/zTbu3/+YM9A4RcYZ/2g8Ufwus1XdhTH01YR0N/082frJf99NsN33l/+IHc7g97r/H2v8/d+5+/7Hj2quj3aIXzxUz87qZZtsVzn+Nz+rt992TwvFgW/Yn7Vb86Ws3zZZjwY+tb/0yeJo8IGsuxtIMveMFmOdj99fFd/fS/6HP3uJ19+8fKrN6evzp7+7gpiPyQZxqS//f+TdA9+2KTbjZPu/3uk27/3wybd3v9fSLd78MMm3b3/v5Bu74dOuv0fCul+CKTbffjDJt39/9+Qbm//h027T///Q7sfuqF48P892g1oOzO+HxrpDv5/Q7rdHzbpHv7/hnR7P2zS7e78/4V2uztfj+8+hHg/FyGF+VsTFv8Pmwxo6L8QAAA=</ScriptData>
+					<ScriptVersion>1</ScriptVersion>
+					<ScriptGuid>45196793-dacc-11e3-b3f9-005056a25f72</ScriptGuid>
+					<ScriptFlags>0</ScriptFlags>
+					<Parameters></Parameters>
+				</Table>
+			</NewDataSet>
+			<ScriptFolder>
+				<NewDataSet>
+					<Table>
+						<FolderID>3</FolderID>
+						<ParentID>0</ParentID>
+						<Name>Actions</Name>
+					</Table>
+				</NewDataSet>
+			</ScriptFolder>
+		</PackedScript>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>3</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Actions</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

@@ -1,0 +1,45 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5892</ScriptId>
+				<FolderId>213</FolderId>
+				<ScriptName>Install Reset Disabled Monitor Process</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvVnnzSy7HqVfTttqktfpzoNRurezu5/ef7S7/+j+bvryi8d3vRcev57Wxar9ybxuimoJyOEH+v3n62J2lE13zrPZpw+39/P9h9u7u/n+9sPsYH97Z2dnuvdwlu1NH9j3+YXHd/3x/MbJ/wNOlFuR3wAAAA==</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>ac0fad69-4e49-11e4-9a84-000c29da2c70</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>213</FolderID>
+					<ParentID>191</ParentID>
+					<Name>Solution Installs</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>191</FolderID>
+					<ParentID>0</ParentID>
+					<Name>ServicePlus</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

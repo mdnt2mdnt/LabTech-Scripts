@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6237</ScriptId>
+				<FolderId>234</FolderId>
+				<ScriptName>Auto Close Service Stopped Tickets</ScriptName>
+				<ScriptNotes>This scripts will close all open tickets for Stopped services that have been open for more than 1 day.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>0</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/SL7LrdPf+KN3b2d1Pdx/t3n9EP19+8fiu1/rx62ldrNqfzOumqJYAG36g33++LmZHD/YO9qef5ve2Z9N797Z3d+m37OHuwfbOzu79+7O9nQfnO/Z9fuHxXX8wv3Hy/wDGF0Mb3AAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezowd7B/vTT/N727PpvXvbu7v0W/Zw92B7Z2f3/v3Z3s6D850dA4VfYJz1g8Yfwes2X9lRHE9bRUB/08+frZf899kM33l/+YPc7Qx6r/P3vc7f+52/73v0qOr2CAPAT/3spFq2xXKd43P7u373ZfO8WBT8ivlVvzlbzvJlm/Fg6Fv/T58kjgobyLK3gSyfPhimy9FXL58evzlN22L6Nm+b9PXpG/P7uCFk1k362X763W+fvrJtxs168tP5tE2fn/1ep+nHv/vrnzz53T9Oj1889V+s23w2y9o8/YVle5iii9//+OnTrRdffnfrzujsxZvTVz95/Dzd3qWvfp873Ze5V5pMRfFHE7d54r72xOX1ZTHNf/ffvWmr1Sqf/X9nFnf/vzSLew83zOLx8jqtVvnSCuB5VaevZT5SnaAmnWeXeTrJqdm0rJp8Nv5ZoerezwFVzd9qvP4ffgOr2ssGAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>7284c6e3-dc33-11e3-a918-00155d207f00</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>234</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Service+</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5867</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>LabTech Logs Zip</ScriptName>
+				<ScriptNotes>This script will zip up the Labtech logs and store them nightly with a rotation of one week.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvVnnzSy7HqUvqst8McnrdOfTUbq3s7uXPni0u/to7356/MXju94bj19P62LV/mReN0W1BOjwA/3+83UxO3qwO905n9zb337wMM+3d3fze9sHu/dn2/n+7u79yWSHvs/M+/zC47v+gH7j5P8BvG8vheAAAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezowe7053zyb397QcP83x7dze/t32we3+2ne/v7t6fTHbo+8xA4RcYZ/2g8Ufwus1XdhTH01YR0N/082frJf99NsN33l/+IHc7g97r/H2v8/d+5+/7Hj2quj3aIXzxUz87qZZtsVzn+Nz+rt992TwvFgW/Yn7Vb86Ws3zZZjwY+tb/0yeJo8IGsuxtIsu9h8OEOXp08u3Tk9/r9eO7+vfPXzI92NtAptenz09P3qRPj9+c/v7Pvnz1xfGbrRdffnfrTjpKP/7dv/vxncOfFQLu3oaA70PA3Z9FAu7tbKDfbpw+R79784vKOm/WZfu7a4u9kGJHV3n+dpZd67f33ot+e/9fot/u7v4GAp48+n1f1tUF/Z4+K8q8SbfeHXx65/d9nk3e5NP57/skm75dr37f59VFM0BpMwNd+j46qfOszZ9V5SyvvxaV7/1/isqbteFPnb1M5d2fFYHe/6ZJtfP47s8aqQ42KcQb+HEDI96ek3/f31OF//cc/6BYxfn3PSfg/jc9AT+rvLq3kVcV6Ho6zZsBYn8gu376/ylq3eDn9NXcN0usB980sW7p7Xw9Yt3/2TQ2H0jJg2+akj+rbPdzZLaFk0/ruvp6Vvvh/5eI/P9HU7S7883MwA9nBr4pNo8SsjsvO0NMHzN578f2u/+fiqlu4a36GuCbVcO733j49LNp0Tb6SifVupyly6pNp+wGpO08T4l641Q6S59lxLaz8c8OHX92A6RvmI4bnc7OSD+YMt94PPRzKIx9g/wNs9E3Hrv8v0scy+oiPWca/nCk8v9bwc0wPb95qfzGI5mfVcpslsqf/SB59+CbJtfPmVzCQUuv8jpPyTdb5bO0Ebqdr8vyepy+mRcNvkmvsiZd0trRLLXeXJotZ+k0W6aTnKR4TX8Uy/T2buHPkoz/fyrI+Zoy/rUog2T9D50y5u+nslT5/wBBtPMjuRwAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>71c0fb34-79ee-11e3-815d-e4115bb071ca</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5916</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>MSSQL Server Stats Gathering</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>1,2,4,5,</Permission>
+				<EditPermission>1,4,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0qf5NF9M8jp9MEr3dnZ3071H93Ye7RykL794fNd75fHraV2s2p/M66aoloAdfqDff74uZkd7D2b3H+zPptvnWZ5v7+7m97YfzibT7Z2d3Yez3YOH+9Npbt7nFx7f9Uf0Gyf/D5py0+HhAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7t7Dx8+eLDz6e7O47vhN0Hzz9fF7Gjvwez+g/3ZdPs8y/Pt3d383vbD2WS6vbOz+3C2e/BwfzrNDRR+gZHXDxp/KK/bfGWHczxtGZPHd/U3/fzZesl/n83wnfeXP9rdzuj3On/f6/y93/n7vkeYqm6PQAb81M9OqmVbLNc5Pre/63dfNs+LRcGvmF/1m7PlLF+2GQ+GvvX/9EniqLCBLHubyHLv4TBhjh69/onn6em7fLpu8+bxXf305y2xPn2wgVavT5+fnrxJPz6pFisiV52ePf145P35guSKPygLws7+CQrv7ezsfPwbJ1+9OPvyRXr8/PlvnCiwqb7cjP8A82sx+wNG3sdLAvMHjNIpA3V/O7Dpb5ycvXjzZfrlV2+enT0/TT86ffT7/r7P37yeZ3X++/6+1Iz/4bbjaXOZfvQbJ8/OTp8/fZ2evjh5/uXr06fpk98n/fijj9M3p6++OHtx/EY/GX2cnr4+OX5pG/zGyfOzF6evu+1+3/r3XdJ3z159+YUbz2+cfOfLsxcG7ZSG7cYkHxaz9DM7LPORvvYHXP7+ORTYjBSYfe8PAJT4N2NHPAB1PdmPf+Pku98+fXWa/gFXxXJWXTVpk9eXNGl1VeYE+fnZ73Wafvy7f/HakOp3//hnRRp2v2lpuPf/TWm4/7MjDfffQxru/39aGn6o0nD/Z0ka9n4kDUzfg58daTh4D2k4+JE03FYaDn6WpOHe+0jD/3+lYXfvZ0UaCOytpWF370fScCtp2N39WZKF/f8vycJ7hFjESU+/EYJ1CXb/mybYz2aYdQPBTuo8a/P0TTF9m7c/K9T69P9L1Nr/dAOxfnejD373OKGogZVs02QvpN0R8WX7e+IfaAFtcy+k55HIu+Z90lf5isinTfdDUh+9zs3cpaTxF6zVzqs6bed5etySMprzZ2N9/X4wMw++6Zn52RT8vZ29TVPTMhGGp2Z3YD6ESPksLRommlCbaWidkJ2BeSKTZiwaDJof+cenqyMZBz+i/63of/+96H//1vR/+CP634r+B+9F/4Nb03935/8bE/BzPQG7e+8zAeJQ324C/j+VInsfT+ZnzffDXHyzJPvZdGduINnTvMyJZM+K8mdpQWL3G4+zf1ap9em9KLWELjdb+2+Ydv/fisu+Bu18S/0N0+4bD9H+30Y738p+w7T7xgO2/5fRLjCQt6Hde9Du/1Mh1XtYh589e/qNB0G3sBDm76eUrjv6jZP/B0W/asfgIQAA</ScriptData>
+				<ScriptVersion>1299770610</ScriptVersion>
+				<ScriptGuid>27d574dc-faee-11e3-9dbc-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

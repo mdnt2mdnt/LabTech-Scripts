@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5893</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Add ShutDown and Restart to Start Menu (Win 8)</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>1,</Permission>
+				<EditPermission>1,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S76zL63Tv01G6t7O7lz54tL/36P799OUXj+96zR+/ntbFqv3JvG6Kagm44Qf6/efrYna0O3k4yabZg+0sy/e3d3fze9uTbP/T7Z2d3Yez3YOH+9Npbt7nFx7f9UfzGyf/D1jT4u7dAAAA</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>1b9baca7-aae4-11e3-ba46-0019d1894cce</ScriptGuid>
+				<ScriptFlags>1</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

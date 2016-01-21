@@ -1,0 +1,39 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5877</ScriptId>
+				<FolderId>202</FolderId>
+				<ScriptName>Update the Windows Update Agent to 7.6.7600.320</ScriptName>
+				<ScriptNotes>Updates a Windows System to the latest Windows Update Agent as of version 7.6.7600.320 depending on the OS.  Older XP/Vista/2003/2008 non-R2) version will be upgraded to 7.6.7600.256.
+Based on the Microsoft Blog Entry
+http://blogs.technet.com/b/configmgrteam/archive/2014/07/14/how-to-install-the-windows-update-agent-on-client-computers.aspx
+</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S1/mqzReTvE539kfp3s7ufvrg0f17j3YfpC+/eHzXe+fx62ldrNqfzOumqJYAHn6g33++LmZH00+nO9n9ycH2vf0HB9u7u/n+9uTep/e2d/fu7d6b7d6/Pzs4N+/zC4/v+kP6jZP/B6boj5ziAAAA</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>c6c0a5b8-3478-11e4-b363-12313d155d8f</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>202</FolderID>
+					<ParentID>0</ParentID>
+					<Name>WUA Update</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5914</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Remotely Restart Agent Service</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfPauLWXY9Sr+zXubpp6N0b2d3P93de7S382j/IH35xeO7XuPHr6d1sWp/Mq+boloCaviBfv/5upgd7d/fP9/dm+5t57MHD7Z3d/N72w9nn2bbOzu7D2e7Bw/3p9PcvM8vPL7rj+U3Tv4ftmNt79sAAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5nVzdPayrV7lTZvV7eO73ufa8vOymmSl96p08ZPUpKiWR7uP74YfBK0+Xxezo/37++e7e9O97Xz24MH27m5+b/vh7NNse2dn9+Fs9+Dh/nSaGyj8Ao9EP2j8cb1u85VF7HjaKgL6m37+bL3kv89m+M77yx/6bocUe52/73X+3u/8fd+jR1W3RzuEL37qZyfVsi2W6xyf29/1uy+b58Wi4FfMr/rN2XKWL9uMB0Pf+n/6JHFU2ECWvU1kufdwmDBHj94QMygn7P58JtL9DUT6PG+3X+f1ZTHN0+0XJDLpx8/f6Acfp9sn1WK1JimSb35PT8R+z4/Tn0lf+2+/JuzXTfpqvVwWy4v3I/wtCb/7TRN+72eR8HsbpPZod+dnhUB7/18i0GbO3PoA1rwzbpgZf1ZofO//SzR+sLOBxL/7qroiazfPy7LOm3XZ/u5xgqEH/S0g3FEo6/dCMh49er0mi9iYWdjfQNX2aP//S1Td3dtoeJ5lRbmu858V7rv//yk63Wyg09MXT39WCPXpN02on10jvZFQoSB9s3R68P8GOt2WThvl7s08T62FSK+yJq3FIOSztBEKnq/L8jqtlunvSZNU6de/5zg9a9NmXq3LWTqd59O36SSjf4pluqgWmPC6KK/HPyvUP/imqf+zKs6byN8Z6IcS5uH/pwhzK/H9WVN1uzvfNLF+2LrOI9bPpvHc/cYDiJ9NQt1e2Z0TzUjJtVXKCi2i4H6fam00XFlV0G3UuJ0Xzc+OWtv9/1Yg8kPUa7v/nwofblBsKqsfrtiGiPWNRwW3kFfz91NJRv4/wuzSM5sUAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>454f12c2-ed77-11e3-9d6a-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters>IPtoRestart</Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

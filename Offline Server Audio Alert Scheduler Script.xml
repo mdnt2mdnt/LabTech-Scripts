@@ -1,0 +1,45 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5952</ScriptId>
+				<FolderId>206</FolderId>
+				<ScriptName>Offline Server Audio Alert Scheduler Script</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S4/XFumnTvd1Rurezu5/uP9p58Ojep+nLLx7f9V54/HpaF6v2J/O6KaolIIcf6Pefr4vZ0ez+p/fvTfOd7b2H+9n27m6+vz3JswfbOzv3d+5/Opl++iDfNe/zC4/v+uP5jZP/B6zSmL3fAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo9n9T+/fm+Y723sP97Pt3d18f3uSZw+2d3bu79z/dDL99EFuofALjLN+0PgjeN3mKzuK42mrCOhv+vmz9ZL/PpvhO+8vf5C7nUHvdf6+1/l7v/P3fY8eVd0e7RC++KmfnVTLtliuc3xuf9fvvmyeF4uCXzG/6jdny1m+bDMeDH3r/+mTxFFhA1n2NpBl7+EwXY5e5c26bNPzulqk7TxPF9WyaKs6LZr09zwHvyyJRX7Px3e1+c9bIu4+2MBdR3t7cQod9Wm4F9Ls6HfVz++FtAMz628BDY+kG/3yPr60BN39/xJBN3Ll7yk/f8/0MzzpG2LMk2qxWpOuekG0/Flhx73/L1Hvh86OOwPseFIWNMKzp69XZdFGufLe/5foupkrpzzYYtZgsAFz8hfp2dOfFc7c30zB/5dRcGcDBXeN4uoyZpOX+bRNwZlii4TUTXo1z+tc/ypm6WdpZxIG2Fg+jPPyDdS+//8pat+sRfcijPqzpkQ//f8P8cQz8oknn/ys0O3BB9Dth063Tx9soNvZi9enr96kZy/efJn+Ac10ns/WZT5rxLv/A9It6fLs6chYjtHzaspI4jM18vTr53W1XtHPs+W0XM/y1+sJf9KMXudZPZ3TN0+LJpsQ7NHp+Tkpj+IyP13OKM7J3QdfTqfrus6X07xB87YuJmt09d1iOauu3lyv8sjHx4tqvWwdkNdtVrcM90X+rn21Xo5e67AYwOk7RvBNsZCW/geE0OgPOFvSiC6z8g+w7303z99W51+QQMztZ0+z6+ocX4xe5as8axm2/KoIyR+v22p1fE4QGRvz9uj122L15fl5WSzzkf78cllej76bvc3N5/hdyG9oBxx/UNFXNCr5plq+rKtJPuLZ5Nhw9LIuqrpor0do/VPU+ng2Gz3Pmvb3/6ohNPg3kOdO+pPHz786fb318f2Hnz78ePTxjv7//v39e96f+v8XXz1/PtoZfbwnf5589erp8ZvTrTujF19+l/79eFeb8D/dly0Q2zb4xvwtPAmrseLffs/0Z1KVV/PZnv3sHj6rRerp3U8FxlfEzgapOz8rsn/wgbL/dWTf/K1Jg/8HYVa2u0MQAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>d5653ce0-294a-11e4-bea7-005056bc67e1</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>206</FolderID>
+					<ParentID>190</ParentID>
+					<Name>One Off For Clients</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

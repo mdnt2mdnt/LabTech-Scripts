@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5871</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Purge Old Tickets</ScriptName>
+				<ScriptNotes>Purges tickets older than 180 days.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvVnnzSy7HqVfTttqktfp7sEo3dvZ3U13dx/d2390fz89/uLxXe+Nx6+ndbFqfzKvm6JaAnT4gX7/+bqYHd3b/XRvb+dgtn1wb3awvbub39vOJvuT7Z2d+zv3P53cu3d+MDPv8wuP7/oD+o2T/wczNEsm4AAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7v3dnbuf/pw9+DB47vhN0Hzz9fF7Oje7qd7ezsHs+2De7OD7d3d/N52NtmfbBMEgjG5d+/8YGag8AuMvH7Q+EN53eYrO5zjacuYPL6rv+nnz9ZL/vtshu+8v/zR7h69qsocxJhkTf46ry/z+vFd/cpvuHe0p5/vBZ/fA3D9zf98v0PW+x4Fq7o92qGB4ad+dlIt22K5zvG5/V2/+7J5XiwKfsX8qt+cLWf5ss141PSt/6dPO0euDfTb20C/Tx9sIODT0+enb07TZ6++/CJti+nbvG3S73779NVp+rrN6jafEXXz9BeW7WH69PjN6e//+qsnWydfvXp1+uLN748Ptu6M0rMXb05f/eTx83T3YIda/T53DuOT0CHqvc7fP4+InpckqD7RZ8TDQvf0DX8Apv5/D+l3/79E+r2HG0j/ZTlTCjdptjS/g9rpPGvSSZ4v09W6vshnv+vPCiX3fg4oaf5Wm/L/AJCKZcdiBgAA</ScriptData>
+				<ScriptVersion>1300569187</ScriptVersion>
+				<ScriptGuid>3162208d-83d8-11e3-ab4b-005056b33f8d</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

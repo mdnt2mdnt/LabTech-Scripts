@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5902</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Dir Check</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S41VdlOnO/ijd29m9lz54tPvw0d5O+vKLx3e99o9fT+ti1f5kXjdFtQTg8AP9/vN1MTt6uPvwwf18/8H25OHkYHt3N7+3Pcn2P93e2dl9ONs9eLg/nebmfX7h8V1/OL9x8v8AQndvhd4AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo4e7Dx/cz/cfbE8eTg62d3fze9uTbP/T7Z2d3Yez3YOH+9NpbqDwC4yzftD4I3jd5is7iuNpqwjob/r5s/WS/z6b4TvvL3+Qu51B73X+vtf5e7/z932PHlXdHu0Qvvipn51Uy7ZYrnN8bn/X775snheLgl8xv+o3Z8tZvmwzHgx96//pk8RRYQNZ9jaRZe/TYcIczYo6PXn0+35r/G5Rpnebx3f185+35Np7uIFav3szz8uyzpt12f7uPyu02n1vWn04rczfqkL+HxKn785RBAAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>91975e47-b9b8-11e3-ba46-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

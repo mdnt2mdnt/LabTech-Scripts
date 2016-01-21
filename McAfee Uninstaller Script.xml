@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5909</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>McAfee Uninstaller Script</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/SL7LrdPf+KN3b2d1P9x7t3nu0/2n68ovHd73Wj19P62LV/mReN0W1BNjwA/3+83UxOzp4uLOf702n27Pp/f3t3d383vbk/s697Z2d3Yez3YOH+9Npbt7nFx7f9QfzGyf/DxZh2FrcAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo4OHO/v53nS6PZve39/e3c3vbU/u79zb3tnZfTjbPXi4P53mBgq/wDjrB40/gtdtvrKjOJ62ioD+pp8/Wy/577MZvvP+8ge52xn0Xufve52/9zt/3/foUdXt0Q7hi5/62Um1bIvlOsfn9nf97svmebEo+BXzq35ztpzlyzbjwdC3/p8+SRwVNpBlbxNZ7j0cJszRm3nRpE3OX6ZXRVmms3xazPK0OE+v8nSaLdP1slg2bUZfXRZZ2s7z9IvXZ6O0qtN5dpmnbZVmbZsvVm2aLSv6uk6Jq+bVbPz4rnbyI9pHaf/oKaRvUSzz9CtD47x+X6rdimq7/1+i2t4mohmaFcsL5bO0Ovd4dJnns3w25udnhZR73zQp934WSbn7YG8DLV+fPj89eZP+AZZ6f0D67NWXX6RNdd5eZXWefvfbp69O02m1WK2J6sUs/ex3d3/87unxi6f+l2cv0i0F6X3KEM3fjQFZFjRgAEz3HtxhQH/AC7JGf0D6/Oz3Ok0//t0X0+w8z3/3j+WrJX/14ss35utJXV01ef27f/yzMsX3vukp3v9ZnOK9nQ0zvBunz9Hv3vyiss6bddn+7tpiL6TYkeWJy6xc59ro3nuRcf//S2S8naQII/5ISGhW7/9/aXZ/loTE8MDXl5FPP5iKP0QqPthExd8z1Bi/5wBRDwZIST5lnIBHj+gr5yBpo/2NVH3w/yWq7m70dx59yS71z7aDePBNU+z+zybFNrvVMX75Zqn18Jum1ge40zdSayN7gVYIw9OnFAPif7NxeizhHDzsMPajxqe/9+nJz6JzvbvzTVP259y7fv3Vk9dvXp29+Pz3P3vx9PT33ur+7Xnfo49+8Uej7d07o49+yUej3TviFfwBxsj8AeoW/AHOb/gD+q6GuAGfffR7Brbp9/zoZ2e6vvG48mdT0f4sOQEkFT/5te3/7geHkz9MCu5+uoGCi6bI3+XT9O679Bf/nvQH1Mrv+UvSV6dffPmTp58dP39Ovz758ss3n71K7/6inx12/P9W4LY5L5d7yveckm0dgabkW5NO8nxpsm/5LF030NmaoUt/T8OYv+fPkq7+xuO7n01dvZHax2mdT6qqTSkZWue/aF3URM1JTmTPTRb07bK6QlK0aNOrqn6b/yylN3ffO6z6uSTq/f0fWs599/9TkdL9H95ixO7/p4Kd+xssyDdNmG88pvnZJMze/Q366WxJyy0zCgNpseV8TQahzhcVrb38nq+rc7YJoudH6XW1puWXbDrHogJS4U2aqW4bpy/LPGty+pOMSk2rNa00z7OaEk1NS/mn5WW+pJzTNB9Qbkfkbi6bqsyX68WEMktxj+h95+kbj6Z+VmPPTYbkG+ZgOKzfLGV+Njn4faLy9HQ5+1mxn3vfeESy83NHslulfj6cZN94CPKzSbKNftyLKn2vhMYsP88osnOf5vXPVmZj7xuPTX42HbuNgd7tMr0fSq9vPLr42dR9P5uxnJf6TVdZO0+p8VIY/Spr0uwyK8psUuY/a5z7o5BkgDA/CkkGCPOjkGSAMAffPGF+9gjz8zck2ftRSDJAmXs73zRlfjZF+3396/T0xdOfFRt672cvLBkmm/n7adZmR79x8v8AVhT6gSksAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>8904e2cc-dc54-11e3-b503-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

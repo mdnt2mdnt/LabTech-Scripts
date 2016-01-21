@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5865</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Install All Approved Patches</ScriptName>
+				<ScriptNotes>This script will install all approved patches on a machine it is run against.</ScriptNotes>
+				<Permission>1,2,4,5,</Permission>
+				<EditPermission>1,4,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffVEtZ9n1KH2WT+p1Vl+nezsj+v/uXrr36P7uo/1P05dfPL7rvfD49bQuVu1P5nVTVEtADj/Q7z9fF7Oj6WR/7+D+g+n2wf6nO9u7u/m97WyyP9ne2bm/c//Tyb175wcz8z6/8PiuP57fOPl/AIxsOVPfAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo+lkf+/g/oPp9sH+pzvbu7v5ve1ssj/Z3tm5v3P/08m9e+cHMwOFX2Cc9YPGH8HrNl/ZURxPW0VAf9PPn62X/PfZDN95f/mD3D36PZs2a9fN7/n4rn7gf713tKef7wWf3zt6dnz2/PSpfnkv+HK/Q8j7Hs2quj3aoTHhp352Ui3bYrnO8bn9Xb/7snleLAp+xfyq35wtZ/mSMMeA6Vv/T59sjlIbSLe3iXT39jYQz1CnQ7UOAe51/v7/FYH2Hm6gz/EFdZq+zNrpPD1bEqeVZfqdapLOsyadVotVSUI2G/+sEHH38d1vloi7P4tE3L2/gcs6A/1QwuwNcNfu/ysJs/tgA3u9Pn1+evKGOWlN2rqYpc9effmF/btJv/vt01en6dbWiflk/KzMLpr0F2aL1WG6u7O3fyf9TH8ev3jqQ/os/d3dX7/7e2rHyKsdHXn06FU+qar2RZ7P8pm22d84cff+v6QWdu9t0guPXlSR4X+zCmD/8f+HyLVRi7L+zBvSmpd5OsnzZVqILs1no3SRTefFMk9nFbVYVm1a579oXdR5mtFvIPHPjnq9/00z497PInV3N5H3G1avn/5/ijCbpfRnXUYffNPECmT0GybWRhn9QsXwlUhf48QvfVbV02J5oX+nxWKRz4qszcvr3/V3/V1/Vsh68E2T9WeVBx/+8Hyfhz8HhDF/axj6/wBGNf4zlQ4AAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>cb42857c-8460-11e3-ab4b-005056b33f8d</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5884</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Uninstall Adobe Reader 9, 10 &amp; 11</ScriptName>
+				<ScriptNotes>Uninstall Adobe Reader 9 and 10, 11</ScriptNotes>
+				<Permission>1,2,4,5,</Permission>
+				<EditPermission>1,4,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0qf5NF9M8jp9MEr3dnZ3071H93Ye7TxIX37x+K73yuPX07pYtT+Z101RLQE7/EC//3xdzI6m2X5+fu9gZ/tgNr2/vbub39ue7E8Otnd27u/c/zTbu3/+YM+8zy88vuuP6DdO/h+ABy8v4QAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7v3dnYePvj004Odx3fDb4Lmn6+L2dE028/P7x3sbB/Mpve3d3fze9uT/cnB9s7O/Z37n2Z7988f7Bko/AIjrx80/lBet/nKDud42jImj+/qb/r5s/WS/z6b4TvvL3+0u0fHs2qSp6/ybJbX6e/9uz++q5/7rfY6NLrX+Xu/8/d9j1xV3R6BOPipn51Uy7ZYrnN8bn/X775snheLgl8xv+o3Z8tZvmwzHiJ96//pE8rRZgOx9jYR6/7+BnL97mXbXE5nRf27/76rbPo2u8ib3zcDCdfLYtm0WVnm9Y9ouHewgYSvq/P2Kqvz35dZ7ytHN/pgkh/XJ2WeLfP697/cG+fv8jgxj373q2LJs8DzEcxFMBebYO590ITs/n9pQnbvb+Lpb4CW3fm52xQlDSW9u6qr2Xrafrab3lVAq6ydf/Y0P8/WJX0/BbQyv8zLz3bSu800W55XddXOSY3inefVxXP+8l580kA1/e19Jm/v52DyzN9qmP4feGCFHKcGAAA=</ScriptData>
+				<ScriptVersion>1300976680</ScriptVersion>
+				<ScriptGuid>ca4ef380-8dc5-11e3-b4b8-005056a25f72</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

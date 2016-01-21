@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5882</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Updates - IE11 Deny</ScriptName>
+				<ScriptNotes>Blocks automated Install of Internet Explorer 11</ScriptNotes>
+				<Permission>1,2,4,5,</Permission>
+				<EditPermission>1,4,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/Sp/k0X0zyOt3bG6V7O7u76e6j+w8e7e2kx188vuu98vj1tC5W7U/mdVNUS8AOP9DvP18Xs6MH2e7O7Dx7uH1/d/9ge3c3v7c92c/2tnd29vY+3d852D9/mJn3+YXHd/0R/cbJ/wM6jUPg4QAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+XxezowfZ7s7sPHu4fX93/2B7dze/tz3Zz/a2d3b29j7d3znYP3+YGSj8AuOsHzT+CF63+cqO4njaKgL6m37+bL3kv89mR/uP73p/+YPcPfr27/X8i9/39ZfP3nz3+NXp7/tFMa2rpjpvf9+zJY1/mbfp6btVWdV5/fu+ztv16vfd3R3v/L5PqxdVe1yW1dXZ6S71rLB8yHtH9/TzveDze0em/b3g8/0O+e97lK7q9miHKIGf+tlJtWyL5TrH5/Z3/e7L5nmxKPgV86t+c7ac5cs2YzLRt/6fPrEdfTcQfG8Dwfce/JxQ3HzepfjeD4viuw9+7kj+sEdyR/KnRZNNynyWgnjp8bqtFoTCNH2aE6WvF4RRel5Xi9RORpzAHYLd6/x9E0F3/19H0Htfl6C3pWN6XNZ5NrtOzQz8rBD254RTzd9qXv4fg7ArU20GAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>7a10dfa9-5148-11e3-b4a2-002264084f9a</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

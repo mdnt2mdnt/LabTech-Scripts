@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5872</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Reboot Pending Reboot Script</ScriptName>
+				<ScriptNotes>This script will be run against all workstations at 11PM to reboot any machines with a Pending Reboot flag.</ScriptNotes>
+				<Permission>1,2,3,4,5,6,7,9,10,</Permission>
+				<EditPermission>1,2,3,4,5,6,7,9,10,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/SF9Vlvpjkdbq3O0r3dnbvpQePdvce7e2kL794fNd75fHraV2s2p/M66aoloAdfqDff74uZkf3d+8f3JvuHGzf38sfbu/u5ve2D+7le9v3d/L7+w8nk+xh/ql5n194fNcf0W+c/D+TZdHB4QAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo/u79w/uTXcOtu/v5Q+3d3fze9sH9/K97fs7+f39h5NJ9jD/1EDhFxhn/aDxR/C6zVd2FMfTVhHQ3/TzZ+sl/302w3feX/4gdzuD3uv8fa/z937n7/sePaq6PdohfPFTPzuplm2xXOf43P6u333ZPC8WBb9iftVvzpazfNlmPBj61v/TJ4mjwgay7G0iy+6DYcIcvT59fnryJp1Wi9WaWKGYped1tbB/N+l3v3366jTdOjEfjJ+V2UWT/sJssTpMd3f29u98hn/TbDlLXaMvX6cvvnyTPj/7vU7Tj3/3Jq8v8/p3/5gbua4++93d77/747uKUTBRGJn+FkzYUeTVe+EcHj16lU+qqn2R57N8pm32v9a87v6/cV73Hsq0RqdVhp6+wP95/OP09F1BI7hIpbdxnN4fKBi737Rg7P0sEnB3EwW/YY2x9/8pwtzbxFoxsfpmuejeN02sn3MxVBF8nS9nEEH9mNTlgjTiB4riABH3v2ki/mxy3N4GGn568PWY7Oh3P/nyi5dfvTl9dfbUmIiO+seI9TefdPf/P0W6DW7P0ac7ZoTvSbwbJPTT/y9RaPfhwQ9Nzz/4pj2Imwnz9QlzA+v8rHDOwf+nOOfnuev8LCvKW7rOD/8/xfi3sNlTMc5ps55O1Xy/qNK2mL7N27Ro0kkOSz6t86zNf5ZM+O7ObYTl/y1E/WG607v/3wo0buNPB7L2DfPRNx59/Gw61PufbiDW7z4tC+p2WOlFlFtX/7V50/6e+GdMbQcUoCqB121RlumS5T89r+rUgl9S6ux3TzNy4hmhVBHjj4026Hqbb+Z5WgvgrG3zxYp+rlZZTe+V1+k5M8DYBAcvtFMyGVA3DWPSkO6plmlLgBbZdF4s8/HjmAe7+42HULeQD/O3ZiL/H1qJ/pKYFAAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>51583c08-52e9-11e3-83e2-50e549bba9e6</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

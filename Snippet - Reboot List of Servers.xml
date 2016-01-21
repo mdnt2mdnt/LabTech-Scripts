@@ -1,0 +1,76 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5955</ScriptId>
+				<FolderId>195</FolderId>
+				<ScriptName>Snippet - Reboot List of Servers</ScriptName>
+				<ScriptNotes>[Not Ready for Production]</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfPauLWXY9Sp/m03wxyet05/4o3dvZ3U8/fbR7/9Hep+nLLx7f9V54/HpaF6v2J/O6KaolIIcf6Pefr4vZ0fnebDLLHuxsP5hm59u7u/n+9uQ8293e2bm/c//T7N5ONn1o3ucXHt/1x/MbJ/8P2OPKt98AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo/O92WSWPdjZfjDNzrd3d/P97cl5tru9s3N/5/6n2b2dbPrQQOEXGGf9oPFH8LrNV3YUx9NWEdDf9PNn6yX/fTbDd95f/iB3O4Pe6/x9r/P3fufv+x49qro92iF88VM/O6mWbbFc5/jc/q7ffdk8LxYFv2J+1W/OlrN82WY8GPrW/9MniaPCBrLsbSDL3s4wXUAz/S2gz9He3mhvf7R7T7/eC8l19Lxo2i/PT6rFag3+0Vb3/v9LxHsbmGuIiB/IZLu3pM//K+jztZjs9zQMdPb09xxgtC/yWZG1Ve1afi1e2/v/Ei13dx5uIObL6iqvX8/zsky3VQunu+OddJtItMiWs/Sj771u62J58f2trc/zdps0f35n/DS7TrfLPH2QbqNN+M2X59/N87fpdv6L0o+f1cUsu/74zke34+mjs+ZVPqkqMj/XX2tm7r3/zOzt/5xNzYNNbN4nRU+rDnD5m3qdx6l39Oh1m9WtAH5ZV9O8Mdp2X1vG6br//ym67m3i+DcVcWRaNMuP27Sd5yn+Oq/qtGaiNOP09F1BA7pIG+57PB7fjnffUx/f/8YpuvuzSNHdTST9ht2hT/+/RZl7m5htWN6+WW568P40G7BIPwzx3Gjdh8z769Pnpydv0q3npy8+f/PtrY9/z47X+Ht+fCfdTvXbV6cvnx+fnMZajfi/j+/cuZN+ku6mx6/TF+tF3/vsKtVoo/czTgff9CT9bPL1Rh1KxJjkdVqdp1NDkbStVIWSbn2U/p4hvX7PcfqGdG1Jk+G/lZ49bdKszql9d55+drTuw/9PTcHX8YJ3Bvj3pFov21uwbSRy2Pn/EtFu0Mc/+6oYCuz/O+Ta6IL6PNPls08H+Kwr+EOO6Oly9v5u6O43Hnnt/SzSdvfBpjB/z7jvvTi2qwoHKD0aIO3vydNm3uoQ9Ahgbdh7P6QuoqdvlLr3fhapu9FACUiyRGlzVbTTOfx5MlAu7k8//j2FEr/nx4gClggBpmhVtM6SjdMX+bs2Pc+vNBhIy+oiXRC3Zhd5k06zZVoty+t0ktPrawqEKXhu51lr7dvPjhHb/RrR2M/hPH2It/fm1dkXW26q7gwatw/K5+x+jWDs546guw82EDQ/yB8cfHp/sv0gP9+TfPnDnck9ypfvTPcezrK9KTT+Bqb82kz5NcK2n0Ma7mxSzaEGva2HZVi5q499K3qDefvGw7ifVRpu1MA/DE/r4P9T5NrsmA74Q98wxW6Of96TYjs/ixTbbOGtXZ9k07ew2UjmLTTBnzbXTZsv0i3P4v/479lP//+ed8RgN0jT5DOGoVHsSubhZ8eEwyh+s6z7s+nIfq1ANEbtnx3zvfeNR1w/q8TcxNWvAt5L51lDziV5p3AoS1pcn/0ssaOLq354FDR/P83a7Og3Tv4fZnBK83kgAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>f2dbda70-7caf-11e4-bfa1-005056a30ac9</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<PackedScript>
+			<NewDataSet>
+				<Table>
+					<ScriptId>5956</ScriptId>
+					<FolderId>191</FolderId>
+					<ScriptName>Force Reboot Computer</ScriptName>
+					<ScriptNotes></ScriptNotes>
+					<Permission>0,</Permission>
+					<EditPermission>0,</EditPermission>
+					<ComputerScript>1</ComputerScript>
+					<LocationScript>0</LocationScript>
+					<MaintenanceScript>0</MaintenanceScript>
+					<FunctionScript>0</FunctionScript>
+					<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffVEtZ9n1KH2aT/PFJK/TnYNRurezu5/ee7R78Gj3Xvryi8d3vRcev57Wxar9ybxuimoJyOEH+v3n62J2lB/kDw4+vT/ZfpCf723v7ub72w93Jve2d3Z2pnsPZ9ne9IF9n194fNcfz2+c/D+v3+PH3wAAAA==</LicenseData>
+					<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo/wgf3Dw6f3J9oP8fG97dzff3364M7m3vbOzM917OMv2pg92DBR+gXHWDxp/BK/bfGVHcTxtFQH9TT9/tl7y32czfOf95Q9ytzPovc7f9zp/73f+vu/Ro6rbIwwAP/Wzk2rZFst1js/t7/rdl83zYlHwK+ZX/eZsOcuXbcaDoW/9P32SOCpsIMveJrLcezhMmKNHr/JJVbUn1WK1JlZ4fFc//3lLrnsb2Ags9rNAn90Pok+EPrs/i/TZ29lEnwECHb0+fX568ib9A75avSkW+R+QPnv15RfpH2C4rvkD0u9++/TVqfvk7OkfkH6W/p7uz99TAe+FlD76atUSwJd1Lnysre69F/33/j9F/03S/Kyqp3laMymK5UXazosmnSoR02V1NR6P058VHr73/yUa7j7c+6HZiv2fbcJ8k4TZLNwDsr0zIJon83z69qRaL7+eVN7/pgn3s2k1bjCyTApnaUvyup5X1epnRRI//f8S3eALDpKtx0Bdzvt0gPN278c5zng7z7KizGfaZn8jNR9809T8xvXabW0DUxNGoThXC5GqcQA7jtM3sBX4BO3S5XoxIZPx8e/pJuH3/Hj8s8KwB980ifd+Fhl2d/fBBhqrm3P2bGvLujq/8KI9THfS4xdPnfvzC0v67Pfs+C6/553Rm1dfnY6eHT9/fXonPX6d/gGXH+ApdYVlb0hYNsvK6/V0mjfNrYTl4f+XZnJvk6N/32iQb5bVd3e+aQrde/yzR6HdnU0k8jXDe3oGQyzXU/ib2Q3Rxv+HqLlRO/9QXYTdbzzi+Vkl3G0SGIFJ/4ap9Y3HNt+oR9Wh1tdy4QPqdaVV7QDhvjZm4P08+d3/b8VAm7jtTRBQz4oZBdWtcacaMZXn67K8HqffzYo2p+/zrC6vU19bpgsacZs36XlVp0WbtpWB0FbVz46PtfuNR1M/m1NwK4kPHZNvmFz/HwqivqbIh+T75mX+/z+BU1/mY/L+s8OHBz8HVDR/P5UVpf8HxV45y2AaAAA=</ScriptData>
+					<ScriptVersion>1</ScriptVersion>
+					<ScriptGuid>e8e7865b-7ef2-11e4-90b3-000c29da2c70</ScriptGuid>
+					<ScriptFlags>0</ScriptFlags>
+					<Parameters></Parameters>
+				</Table>
+			</NewDataSet>
+			<ScriptFolder>
+				<NewDataSet>
+					<Table>
+						<FolderID>191</FolderID>
+						<ParentID>0</ParentID>
+						<Name>ServicePlus</Name>
+					</Table>
+				</NewDataSet>
+			</ScriptFolder>
+		</PackedScript>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>195</FolderID>
+					<ParentID>191</ParentID>
+					<Name>Snippet</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>191</FolderID>
+					<ParentID>0</ParentID>
+					<Name>ServicePlus</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

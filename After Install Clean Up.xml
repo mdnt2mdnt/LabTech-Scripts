@@ -1,0 +1,45 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5912</ScriptId>
+				<FolderId>204</FolderId>
+				<ScriptName>After Install Clean Up</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0i+y63Rvd5Tu7ezup7uPdvYf3d9PX37x+K7X/PHraV2s2p/M66aoloAbfqDff74uZkc7s2znYPLpZDvfyc+3d3fze9uT+zv3tnd2dh/Odg8e7k+nuXmfX3h81x/Nb5z8P8GUk7XdAAAA</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>0da08b6b-e0ef-11e3-b503-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>204</FolderID>
+					<ParentID>190</ParentID>
+					<Name>LabTech Fixes</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

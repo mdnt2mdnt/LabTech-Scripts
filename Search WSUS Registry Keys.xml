@@ -1,0 +1,38 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5874</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Search WSUS Registry Keys</ScriptName>
+				<ScriptNotes>This script will look for the WSUS settings to see if the keys are assigned on the agent.  If found, they will delete the 'WUSserver' and 'WUStatusServer' keys and change the value of 'UseWUServer' from '1' to '0'.  
+
+If the keys do not exist, it will return a script note that the key does not exist.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/SL6dtNcnrdHdnlO7t7N5L7z3a23l070H68ovHd703Hr+e1sWq/cm8bopqCdDhB/r95+tidnRvujPdn+0/3N7/dO/e9u5ufm/74d7uve2dnZ3p3sNPs72H53vmfX7h8V1/QL9x8v8AIyqlxuAAAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo3vTnen+bP/h9v6ne/e2d3fze9sP93bvbe/s7Ez3Hn6a7T083zNQ+AXGWT9o/BG8bvOVHcXxtFUE9Df9/Nl6yX+fzY72H9/1/vIHuXv07d/r9Pf5/Z9/eXL8/Pf/4vjk22cvTn/f118+e/Pd41env+/LqiymRd78vl8U07pqqvP29/1usZxVV435+dVqlrX5o+9+9TqvL/P68V2F6vexd7Sjn+8Fn9/rEHy/8/d9j9ZV3QIK/9TPTqplWyzXOT63v+t3XzbPi0XBr5hf9Zuz5SxfthkTir71//TJ7Si8geR7G0i++3NM8w4tf17S+hulNTHJuvlZpPju/6e4e3f3Z5m9f9/jrx591eQ3KJa9uGIBMfW3YAqOHp3Ms+VF/nvl19pgf+Oc7H3Tc7L7szkn9x5umJPeyL9Z7r33TVNq7xug1BCl9h78v4J5B6yiZeoO894wA/vf9Azc+1mcgfv3h2egM84P5cz73zRdflb16v29HxphPv3/FGH2Nik3I0kdCftAAj34fxuB7m0g0Eb6kNZPZ1XepMuqTfN3RdP+rBDs58JBN39rkPf/AK0HCdbzDQAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>3c0c4d49-4623-11e3-9213-000c296a29f2</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

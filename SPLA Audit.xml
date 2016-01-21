@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5877</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>SPLA Audit</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>1,2,</Permission>
+				<EditPermission>1,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvVnnzSy7HqXfWZfX6d7+KN3b2d1Ld/ce3f/00e6n6csvHt/1mj9+Pa2LVfuTed0U1RJwww/0+8/XxezoYHeWfXqQz7Yf7j24v727m9/bnuxPDrZ3du7v3P8027t//mDPvM8vPL7rj+Y3Tv4fMaT7yN0AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo4PdWfbpQT7bfrj34P727m5+b3uyPznY3tm5v3P/02zv/vmDPQOFX2Cc9YPGH8HrNl/ZURxPW0VAf9PPn62X/PfZDN95f/mD3O0Meq/z973O3/udv+979Kjq9miH8MVP/eykWrbFcp3jc/u7fvdl87xYFPyK+VW/OVvO8mWb8WDoW/9PnySOChvIsreJLPceDhPm6BHNZHF+fVJmddE8q8pZXj++q9/9/CXZ7v4Gkv3uV8VyVtS/++9bts3l9PddZdO32UXe/L5TpmGcekBXfwuoePTodDkbnIJ7tyGxJfHuN03ivZ9NEt//pkn8gQy6N0C93a9Lvf2fTer9f5JB733TDPqzSeK9TVrzWVaU+Sxtq3Ra51mbp5tJnp4z0cbp6buChnmRCkrjb4SRu1Te/6ap/OnPJpV37//QrPb9/y8R5garvUkov1m9+Ok3TbWfTcO9t7OzgWqvq/P2Kqvz31eI9vu+fvn8+Hg9K9rxqtkdUItWsJ+/ef2TJ7/vSyPYG0B0NOh70vvB+9qhn1t639tA7yZvt/N3+XSNb1dVWUyv0/Wyzpu2LqZtPvtZ4deD/2/x6yb6DfHe9Nbs+4G0fPj/JV58sEn0f/dVdUUh6zwvS+K/ddn+7gPyvjfgBr2o0q8ahMrPqvVylhbL9FW+qMjyP82bt2210m8/r6v1Ku4cHT16UXEj/Xp/I+l3d27Lx/9voP2nD74B2n8gs+5+4/HPzybFdjf5l9+w47M7FNt8bcrs/mxSZrPnEwrRN8xC33iE8rPJQspBP7dC941HG7dgLfP3U0l5/j+j3xKCARUAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>81da68ed-9275-11e3-b4b8-005056a25f72</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

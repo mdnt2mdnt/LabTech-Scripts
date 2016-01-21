@@ -1,0 +1,38 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5789</ScriptId>
+				<FolderId>188</FolderId>
+				<ScriptName>Backup SonicWall Config</ScriptName>
+				<ScriptNotes>On line 39, PLEASE UPDATE username and password with the FTP created username and password device will use to send backup config file.  An FTP server is not part of this solution, but FileZilla has been succesfully tested.
+Script will create several variables to remote into the SonicWall device and also change the file name each time a backup runs to the client name and current date.
+Script will look for all devices per location that have the EDF "backup sonicwall router" selected, telnet to the device, and run the backup command.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffVEtZ9n1KP1y2laTvE53743SvZ3d/XR399Hu/Uc799LjLx7f9V54/HpaF6v2J/O6KaolIIcf6Pefr4vZ0e7k/vmnD2cPtu/vTbPt3d18f/thlj/c3tm5v3P/053dvb29XfM+v/D4rj+e3zj5fwBXdT1b3wAAAA==</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>1b5f69d7-52ca-11e4-9ae9-005056012221</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>188</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Julio</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

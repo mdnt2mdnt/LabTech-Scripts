@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6239</ScriptId>
+				<FolderId>234</FolderId>
+				<ScriptName>Auto Close ESET Installation and Removal Failure Tickets</ScriptName>
+				<ScriptNotes>This scripts will close all open tickets for ESET Installation and Removal Failures that have been open for more than 1 day.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>0</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/SL7LrdPf+KN3b2d1Pdx/t3n9EP19+8fiu1/rx62ldrNqfzOumqJYAG36g33++LmZHD+8/mO3nu9n2bHrvwfbubn5vO3u4e7C9s7N7//5sb+fB+Y59n194fNcfzG+c/D9dmayG3AAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo4f3H8z2891seza992B7dze/t5093D3Y3tnZvX9/trfz4Hxnx0DhFxhn/aDxR/C6zVd2FMfTVhHQ3/TzZ+sl/302w3feX/4gdzuD3uv8fa/z937n7/sePaq6PcIA8FM/O6mWbbFc5/jc/q7ffdk8LxYFv2J+1W/OlrN82WY8GPrW/9MniaPCBrLsbSDLpw+G6XL01cunx29O07aYvs3bJn19+sb8Pm4ImXWTfraffvfbp69sm3Gznvx0Pm3T52e/12n68e9+ine+WhZLal+W6bOsKPPZ7/5xevziqQ+qbvPZLGvz9BeW7WGKTn//46dPt158+d2tO6OzF29OX/3k8fN0e5e++n3udF9mPGh6Femft1O59zAylWYqj5fXabXKl3Yyz6s6jc5OOs8u83SSU9tpWTX5bPyzQtrd/y+R9ochJWf/H5WRvR9NZDiRdf6L1nnT/r9jDm83h/d+NId2Dk/m+fRt6ovk/3dkcf9H82jnkQhRX4/Sdp7LZKqV+//OZN7/JibzhzWZX9P5CI3eD8n1+PTngLDmbw3E/h8k+N4Ilw0AAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>957d4e1a-dc37-11e3-a918-00155d207f00</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>234</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Service+</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

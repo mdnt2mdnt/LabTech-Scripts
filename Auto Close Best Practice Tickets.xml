@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="70.198"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5785</ScriptId>
+				<FolderId>188</FolderId>
+				<ScriptName>Autoclose Best Practice Tickets</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>1,2,4,5,</Permission>
+				<EditPermission>1,4,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0qf5NF9M8jrdeTBK93Z2d9O9R/d2Hu0cpC+/eHzXe+fx62ldrNqfzOumqJYAHn6g33++LmZHD6ef3ju4PzvYnj68f7C9u5vf255k+wfbOzu79+/PdnZ3Jjt75n1+4fFdf0i/cfL/AMJlcQ/iAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7t7Dx8+eLDz6e7O47vhN0Hzz9fF7Ojh9NN7B/dnB9vTh/cPtnd383vbk2z/YHtnZ/f+/dnO7s5kZ89A4RcYef2g8Yfyus1XdjjH05YxeXxXf9PPn62X/PfZDN95f/mj3e2Mfq/z973O3/udv+97hKnq9ghkwE/97KRatsVyneNz+7t+92XzvFgU/Ir5Vb85W87yZZvxYOhb/0+fJI4KG8iyt4Esnz4YpsvRVy+fHr85Tdti+jZvm/T16Rvz+7ghZNZN+tl++t1vn76ybcbNevLT+bRNn5/9Xqfpx7/76bvpPFte5OnrvL7M6/RJ3rTpyzqj/qZ5+ipfEaF+94/T4xdPfch1m89mWZunv/CiPUyBw+9//PTp1osvv7t1Z3T24s3pq588fp5u36Ovfp873ZcZLZptHcPPz5mlqdx7uGFmj5fXabXKl+ltJsgywDy7zNNJTq9Ny6rJZ+OfFSrvftPys/f/Xfn5brGcVVdNurezc5C+2utMz/EyK69/kNf/35GgvW96bn82dePtJOh2U/RDlqF73zSd/z8sQ8dP09fTeb7I/j9nb/a/6Vn8uZeW7mT8kOXi/jdN0f+XysVt5OLzl1+mk2z6dr1Ks+VM56NYXvx/Rz4+/aZn8+dePjApTyKT8kOWkwffNGX/PywnX7xOX//Ec+Mg/39DTILJPPimJ/PnXkwG5uSHLCUPv2nC3kJKzN9PJbXz/wDBz4/X6REAAA==</ScriptData>
+				<ScriptVersion>1299770610</ScriptVersion>
+				<ScriptGuid>9c6385d8-c958-11e3-ba48-00155d010b02</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>188</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Service+</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

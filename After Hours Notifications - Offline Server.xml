@@ -1,0 +1,67 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5887</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>After Hours Notifications - Offline Server</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S41VdlOnO/ijd29m9lz54tPvw0d5O+vKLx3e99o9fT+ti1f5kXjdFtQTg8AP9/vN1MTvK7+3v7e9O729n9+/Ptnd383vbk71P97d3dnYfznYPHu5Pp7l5n194fNcfzm+c/D/FkSYv3gAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo/ze/t7+7vT+dnb//mx7dze/tz3Z+3R/e2dn9+Fs9+Dh/nSaGyj8AuOsHzT+CF63+cqO4njaKgL6m37+bL3kv89m+M77yx/kbmfQe52/73X+3u/8fd+jR1W3RzuEL37qZyfVsi2W6xyf29/1uy+b58Wi4FfMr/rN2XKWL9uMB0Pf+n/6JHFU2ECWvU1kufdwmDBHj94Uizz9draclcXy4vFd/fjnL7Ue7G2g1uvT56cnb9Jvf/nVq62Tr169OfvidOvOncOfFbLt3pJstybb7s8i2fZ2NlBtN06fo9+9+UVlnTfrsv3dtcVeSLGjk3VdE8Lfrta1trj3XjTc+/8SDR9somGfEl1qPhig4e5BnHRHj47PSfmnANlok/2N1Lz384ia+wPUNFT+YGLuf1PE/GEQ8wYb8mTdFMu8aYLhf7Pa8P43Ta6fTSOy/+kGav3u07KgbouZUXo9tTitFqs1cZNr0uXCN6dfvPw98c/45MsvBjjSglmSl/e7p1mbas/yd9Gk1fk5Gf38d/1d4wz7NSDcD+bs0296zn42WXxvf8OcLbJldpHPmry+LKZ583teTRbjaXbT/N1ItoHZvT2A9E0xfZu36XK9mJD2Oa/qtJ3T90XTrHM0/N3bYkoNiJPGX8uAPvj/0hTu7m3QUt9wCHDwTRNm72eTMJvVd990fbO6++E3Tasf6W5P8/7s6O7dnW960n42Jf9Hyjsmd7v/3wohN85hUy2nWVn+PJq828au/6+YvN0HGyZvb/bg3u6DexNKCX66N5gSjM7ovZ34TL2nBdr9/1To+sP0Y3a/8Tj0Fo6M+fup5Kz/H437v9fCFgAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>e34241c5-a55d-11e3-b264-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<PackedScript>
+			<NewDataSet>
+				<Table>
+					<ScriptId>5888</ScriptId>
+					<FolderId>190</FolderId>
+					<ScriptName>After Hours Notifications - Delayed Script*</ScriptName>
+					<ScriptNotes></ScriptNotes>
+					<Permission>0,</Permission>
+					<EditPermission>0,</EditPermission>
+					<ComputerScript>1</ComputerScript>
+					<LocationScript>0</LocationScript>
+					<MaintenanceScript>0</MaintenanceScript>
+					<FunctionScript>0</FunctionScript>
+					<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S41VdlOnO/ijd29m9lz54tPvw0d5O+vKLx3e99o9fT+ti1f5kXjdFtQTg8AP9/vN1MTvamz24t/vg3mQ7u//p3vbubn5ve7L36f72zs7uw9nuwcP96TQ37/MLj+/6w/mNk/8HlciZv94AAAA=</LicenseData>
+					<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo73Zg3u7D+5NtrP7n+5t7+7m97Yne5/ub+/s7D6c7R483J9OcwOFX2Cc9YPGH8HrNl/ZURxPW0VAf9PPn62X/PfZDN95f/mD3O0Meq/z973O3/udv+979Kjq9miH8MVP/eykWrbFcp3jc/u7fvdl87xYFPyK+VW/OVvO8mWb8WDoW/9PnySOChvIsreJLPceDhPm6GSeT982aVulTZ6nxXnazvN0Wi1Wa2KMdJ416STPl2l1fl4Wyzw9r+p0UdU5NcuW6e79dEGDbfNmnL5cl8Q3k2z6lkGcGBBnT+ll/miRTeeAQZ0UrQU9fnxXUfn5O0MP9jbM0OvT56cnb+ycFLP02asvv7B/N+l3v3366jQts6ad0tCyaZv+wrI9TJ8evzn9/Y+fPt168eV3t+6Mzl68OX31k8fP022atS/OXnz15vROevziqQ/4s9/d/fG7/6zMy+7AvOx+3XnZ/Vmcl72dDdOyG6fP0e/e/KKyzpt12RoK7oUUO/pSZOnsqX5/770ouPf/JQpu1j2f523DmgG8m06hiYpl2haL3KiM7ILw+tnREPf+/6IhrIbwNUBURUQlfUk+wO9++LNC4v1vmsQ/m6z6YJOwd0W2K/R7A6Ie0acdaT969LotyjLVHrTR/ka63v//jwp4dAwJT79ceoP/Zpnw02+aCX82PYG9TbR6nk3afDpnz2lGfvu0zWdpO3eOFb5YVu1tPbbnrHVVYbDWvSIAnv362VG8D77pCflZ5d5NM/INRxUH/58izGaxjim1b5aNHn7T1Pp/t1wPC/X/K4R69xsPuH42mXdvf8N0LJq9/Qe/59VkMZ5m6YC9P13kNRmu6bVh8fS4zOt2nIZuVZq19ElZ0Cjk71487TTzvR07iQPOxJt50aT0P2p89iZ1KHDXrOe/++QLIFRM8/T1ddPmC2IIxIJPXv3CC4oIX5Z51lB0n5Fogr/QnCBVS/moabNzCs0Xi3xWZG1eXgcvn52n19U6zQjf9TKblDlyBpbRCFoP0iJfTCgBsOr0uqrz7QITW5wXxOh5Q9/wHKfFclZcFrM1ElAIBBAZFA2koapnee2j87VCp92h6PP/lUx6W9PzjYjvUFT5s0kZ87dmLv8fz+N4pMgUAAA=</ScriptData>
+					<ScriptVersion>1</ScriptVersion>
+					<ScriptGuid>2d73173b-a562-11e3-b264-0019d1894cce</ScriptGuid>
+					<ScriptFlags>1</ScriptFlags>
+					<Parameters></Parameters>
+				</Table>
+			</NewDataSet>
+			<ScriptFolder>
+				<NewDataSet>
+					<Table>
+						<FolderID>190</FolderID>
+						<ParentID>0</ParentID>
+						<Name>*Phillip</Name>
+					</Table>
+				</NewDataSet>
+			</ScriptFolder>
+		</PackedScript>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

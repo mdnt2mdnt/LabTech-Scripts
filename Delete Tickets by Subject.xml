@@ -1,0 +1,45 @@
+﻿<LabTech_Expansion
+	Version="60.239"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5950</ScriptId>
+				<FolderId>152</FolderId>
+				<ScriptName>Delete Tickets by Subject</ScriptName>
+				<ScriptNotes>Will prompt for keyword(s) in the sujbect and search+delete all tickets that have that corresponding ticket ID in the tables: ticketdata, tickets, and timeslips.  It will also lot each ticket that is being deleted.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S72TLdVZfp/d2Runezu5+uvfo3sNH+w/Sl188vuu98fj1tC5W7U/mdVNUS4AOP9DvP18Xs6OD/XsHu/cO7m8fPJxMt3d383vbk3x3tr2zszt5cDCZnWf51LzPLzy+6w/oN07+H039947gAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5nVz9Ho9+el82j6+632mrT4vq0lWeq8J+J+kJkW1PNp9fDf8IGj1+bqYHR3s3zvYvXdwf/vg4WS6vbub39ue5Luz7Z2d3cmDg8nsPMunBgq/wKPQDxp/TK/bfGURO562ioD+pp8/Wy/577MZvvP+8oe92yHDXufve52/9zt/3/foUdXt0Q7hi5/62Um1bIvlOsfn9nf97svmebEo+BXzq35ztpzlyzbjwdC3/p8+SRwVNpBlbxNZ7t3/EWGihHn46TBhjl6fPj89eZO2xfRt3p49TZ+9+vIL/atJv/vt01en5q9xI/KUPj/7vU7Tj3/331P//j1/949VxHa/OSITcXf/v0TkvYcbaPwqb9YlkbM6T3/ROq+v06JJf/fmF5Uz0l9N3v7uPyvk2/umybf3c0W+F+vFJK9Bvbq6atJiGaUifTet1sufJWre+/8UNXc2UHM3Th+gq78FdDpioup3996LZvsfQLMfOs12721iwUfPq2qVfpG1858V7rr/TVPqZ1PV7e5s8ECOfk/ml9/zPZnMMOX7Mdin3zTZfjYZ7GsJ5e++IJar2XwYvfbNyeeD/xeTr0e+B5vIt5npPh2gXGg8loH16FDy6Gm1zNOneZkTV12kb8Qj0rb7G6l88E1Tef9nkUl3Hz7YQGZHrwFKh/PQofd76sSH/1+i20b/5Y3xrdsqneTpDFyUz+C+/J5EUfPtAPd+oGXZ3fn/EhmdEY7R8Ul+Qb6f0EtkMYdT+EMg4v+nQpFPN4nwUwr33pwOR3nEpZ/9MCj6/6no5D0pCh35c0LU/08FKZuJGhB1kTdlsfq5YdT/bwUxG+3Qz3IQs/uNRzG7P5uk2hjvbXL3vmGqfeNBzC1si/n7qaTX/x/xAcZ0bRcAAA==</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>84381385-89bc-11e3-be1d-001b78bdfaec</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters>Subject</Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>152</FolderID>
+					<ParentID>8</ParentID>
+					<Name>Tickets</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>8</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Maintenance</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

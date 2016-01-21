@@ -1,0 +1,45 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5839</ScriptId>
+				<FolderId>48</FolderId>
+				<ScriptName>Remove Resolved Tickets</ScriptName>
+				<ScriptNotes>This script deletes resolved tickets from the LabTech Server. This server is designed to be used for maintenance</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0uNVXZTpw1G6t7O7nz58tP/po/376csvHt/12j9+Pa2LVfuTed0U1RKAww/0+8/Xxezo3v4k29n79Hx7ujN5sL27m9/bPphO723v7Nzfuf9ptrfz6e65eZ9feHzXH85vnPw/gU4l2t4AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo3v7k2xn79Pz7enO5MH27m5+b/tgOr23vbNzf+f+p9nezqe75wYKv8A46weNP4LXbb6yozietoqA/qafP1sv+e+zGb7z/vIHudsZ9F7n73udv/c7f9/36FHV7dEO4Yuf+tlJtWyL5TrH5/Z3/e7L5nmxKPgV86t+c7ac5cs248HQt/6fPkkcFTaQZW8TWe49HCbM0bNiOUvbeZ6+ypuqvMzpj2L6Nm+b9LyuFvxNmTVtupde5fnb5vFdfe/nmJx7+z939Hz46QZ6vj59fnryRolYzNJnr778wpL0u98+fXWavn5z/Oar1+ln6X6aEfGbNqvbfDbL2jz9hRftYYrffv9sNttaVldbd0ZpsSQZvczKdFsm4U44Cd/QJOy+/yT83PH03s6GKdiN0+fod29+UUm0zZq8raurabVetr+7Nt0LSXekE6bf3nsvQu79f4qQm3TDm3le52lG/4+RznJ1W6WzvCRD8rPCl/f+v0TOzbr2NSRdVGpVreiXulpfzDdp3/QW6veDKbz//hT+uVS/G0n86Lyom/ZnhRHvvz+Zfu4Y8cEmBRlqt66a3BvQiTtxbXj06HQ5e078rF/vbyTip/9fIuLuwwcbqOhU4gAhf0+l8+8ZJ+h7st+DIcr9v5FyX8s+/55EUeM3DdBMWbeYfS3LfPD/KRLeYJnTN0yK9OxpWjTpI2U2R7lvVvk9/P8S6TabiKfsq/xcxzy7O+9P0bjV/aGQ9NNNmvApxTxvTsNQ54p9RxsGUbTzs8yhu/+fCmDek54wND8HJP3/VCizu7MhAdQzxl3jY4xS1+CYz7teT+hDbXZ6dn9WY5hvmo4bDY8lY1rm5+3Pcui3+zUik59D/ttIuJ/FwGT3/1ORyQ3xWxhMfMOE+v9W9LGJn7yRfiOU+bmILszfT2Xl4v8BKZN0gsgYAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>34ba026f-c0b7-11e3-8cc3-005056a2061f</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>48</FolderID>
+					<ParentID>47</ParentID>
+					<Name>Ticketing</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>47</FolderID>
+					<ParentID>0</ParentID>
+					<Name>_System Automation</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

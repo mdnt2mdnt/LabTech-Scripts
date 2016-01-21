@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5862</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Fully Delete a Client</ScriptName>
+				<ScriptNotes>**NOTE** This will irreparably delete a client. If you do this mistakenly, you will need to restore from backup.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfPauLWXY9Sl9Ul/liktfp7v1Rurezey89eHT/4aP93fTlF4/vei88fj2ti1X7k3ndFNUSkMMP9PvP18XsaP/TfDrJZve3Dx7cn23v7ub3trPJ/mR7Z+f+zv1PJ/funR/MzPv8wuO7/nh+4+T/AU1qpFHfAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5nVzdFIW+bI9e/qmepqX9NHju96X2vzzsppkpfe+9POT1KSolke7j++GHwStPl8Xs6P9T/PpJJvd3z54cH+2vbub39vOJvuT7Z2d+zv3P53cu3d+MDNQ+AUejn7Q+IN73eYri9jxtFUE9Df9/Nl6yX+fzfCd95c//t0OPfY6f9/r/L3f+fu+R4+qbo92CF/81M9OqmVbLNc5Pre/63dfNs+LRcGvmF/1m7PljKYj48HQt/6fPkkcFTaQZW8DWfYeDtPl6M08T9dNXqfzrEmn86rJl6nhk/T37HLM75m2VTrJ0xn/Nftdf9ffVXlo9+cxeXc2kHc3Tp+jPmW14V5IuKOzp/IF/fo+FNz9/xIFP32wgYJCnvTZqy+/SKdMtCb97rdPX53qX8Us/ez3PHtq6PfNMuLe/5fIuFHOT5R0bTYpcxb2SU6ivqrXy3w2/lkh3r3/LxHv9jxYLVZrWMwfHhfuP777+v8zhNzMhZZ4P0Q+vP//Uz6k/qc/TGX46f+X6HgDGyrtfohc+ODDqPfDpd6tubAtFnlTFqsfIhse/H+JkJt9b0u8HyIfPvz/EvluzYfTq99/Va4viqUw4CJb/fAYcnfnh0DSb4ykmxXjd3tk/CGy5u7/j6KW0+enb06Njpy+zdsZ5WaUJ+UD4smzF+nWa2p58iZ9evb6zdkL+sV+6b0b1653fnYm4f8/Mc8bJh6SYj9ULv5ZiXt+tgh4aw0bcqLl0p9Ftfr/n7DnjdLuh8mF/5+Kem6RukjBaF3aped1tUhbymFCvU6yJh+nr/KyymbpdbWu0+a6afNFOs2m1IRSl02ec+s6b9Zl2/wskf5nI1C6ifTm76eyQPD/ACzzSdMvGAAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>46ecbad5-875d-11e3-ab4b-005056b33f8d</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters>ClientIDToDelete</Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

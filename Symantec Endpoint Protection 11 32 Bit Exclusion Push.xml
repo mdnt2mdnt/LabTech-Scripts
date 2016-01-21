@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5880</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Symantec Endpoint Protection 11 32 Bit Exclusion Push</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvVnnzSy7HqVfTttqktfp7sEo3dvZ3U13dx/d2390fz89/uLxXe+Nx6+ndbFqfzKvm6JaAnT4gX7/+bqYHc3OzycPHk53tw/uze5t7+7m97azyf5ke2fn/s79Tyf37p0fzMz7/MLju/6AfuPk/wHjWREy4AAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7v3dnbuf/pw9+DB47vhN0Hzz9fF7Gh2fj558HC6u31wb3Zve3c3v7edTfYn2wSBYEzu3Ts/mBko/AIjrx80/lBet/nKDud42jImj+/qb/r5s/WS/z6b4TvvL3+0u0evqjIHMSZZk7/O68u8fnxXv/Ib7h3t6ed7wef3AFx/8z/f75D1vkfBqm6Pdmhg+KmfnVTLtliuc3xuf9fvvmyeF4uCXzG/6jdny1m+bDMeNX3r/+nTzpFrA/32NtFvdxMFv/17Pf/i93395bM33z1+dfr7fre6+nT/3t6Lapb/vq+vF9myzaf2l09Ol7NVVSzbT17WFf0NeL/v8U/+vqfvpuUabNP8vq+n2XJZLC9OlxfFMm9+36dFTe2q+vr3PSkLGt7ve+/hzu7ezr17D3Z/34GZ2onPVGdG9o8euW7Pli/LbJrri/s/3Knb+2anLpi6vQf/H5q5zgzdszL3frK1OzBBu/8fnKDT3+f3f/7lyfHz3/+L45Nvn704/bmZLvvdCzIQA1J38uj3/W6xnFVXze/7/M3ry6mZ466+NNL5fnO69yOhu+0sDs4iT/4sf72e0Hw2A9NozFl32r6eKN770bR9A9PW5ku89rxo2oFZ+/L3+kalbf9H0/bB0/aMZKwVpIdE7cE3Kmv3ddJ+NGlff9K+vFoOBgD73+hsffqj2frg2XJA3uTT+bIqq4vrH4pZe/D/5sn7/8jkvc6n1XL2w1SQBz+atQ+etTfzOs/an7Mw4OH/l6bw5yhtcuMcbjJyQ1kuY/w603X0SEmznk7zxsQUm/Mnu/+fSqDs3nu4QRB1+OmzrCjX9YBMdNMa3UTUTemMoXzG16bXzs8ivfY2kcspHaZYPkvbKp3kaTab5bNxejLPlhd52s6LBl9MoWroy7Qtpm/zNs3OKTedtnlDQ75Iqc2sWubjnx2a/38q37AbEL1D9M5IP5gy33hIf+9nkzKbpffeXvqkaNMvsukcWvNnh5W+8WD6059Fgr13OrI6b6+yOv99v/vld4edkNQ4IemQEzJgjp6dPX9+9uL58ZvTV9+oH7H7jQfLBz+Lk3KTIxHOyjc4K+nAtBii37jCoubxvdyDbzwy/lmdmo327ofiHnzjwejPGb2+aVN18E1T5uHPJmVu42iGghRnpK9Nrm88uPp/g5+pFDtfl+W1+pk/K9Tb2/mmqff/F49x7xuPX34OPUbHWWfLl2U2/dnR6XsfEn78v1YUv5vXFM2VFNXNrtNima5Av58lafzGo5T/30jjNx6O3EIazd9PszY7+o2T/wfEU1MXoiYAAA==</ScriptData>
+				<ScriptVersion>1300569187</ScriptVersion>
+				<ScriptGuid>dffb79c1-83d3-11e3-ab4b-005056b33f8d</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

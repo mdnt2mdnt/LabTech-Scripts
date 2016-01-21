@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5875</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Set AssetDate</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>1,2,</Permission>
+				<EditPermission>1,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfPauLWXY9Sr+cttUkr9Pdh6N0b2d3L33w6P7Oo73d9OUXj+967R+/ntbFqv3JvG6KagnA4Qf6/efrYna0P5k+ePjp7sPtT88n97d3d/O97Ul+Pt3e2bm/c//TbO/+w4N75n1+4fFdfzi/cfL/AGYaKzzeAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo/3J9MHDT3cfbn96Prm/vbub721P8vPp9s7O/Z37n2Z79x8e3DNQ+AXGWT9o/BG8bvOVHcXxtFUE9Df9/Nl6yX+fzfCd95c/yN3OoPc6f9/r/L3f+fu+R4+qbo92CF/81M9OqmVbLNc5Pre/63dfNs+LRcGvmF/1m7PlLF+2GQ+GvvX/9EniqLCBLHubyPJgmC5H97L7n+6d359t7073D2S2Dib7e53Z0sY/xyTc2/+5o+H9/Q1E/N3Ltrmczor6d/99G2HjnxWS7cZJ9v9Sku0dbKCYkun3PVs2bVaWvz+pp3y8anbjdIsQ+Pct9M1Z+ObeB1F47/9TFN69d38Dibe+990vzr7/8cd3xoT6ZV63bypQ+U2xyLe2Ps/b7e8uii8nP51P2/S7xfLe3u//5SqvCcvlxevrps0Xd8Y6OXjrzvj3ybN63FZNW1OLrTuffLT90SffcBdfEInnP8t9PM2uvR5+VsT03vsz0QcZhw/iob2dDSw0KI6r6ors/zwvyzpv1mX7u8el78gXUm1y771ouf//KVo+3EDL39Onxe/5s8J49/+/RKwHmxgvwjddHrylwscY9LdNpPv0/0uk+zR06ELSrVcgWjqtFqs1u/ZN3qbHDf2Lzz/7OOTDj9OreV675sXss9/d/W7E+ptl0wc/B7Q2fz+VIOn/AWYDyEozDQAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>4bc79619-6fb5-11e2-befc-005056a25983</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

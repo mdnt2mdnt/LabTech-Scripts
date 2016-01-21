@@ -1,0 +1,50 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5953</ScriptId>
+				<FolderId>206</FolderId>
+				<ScriptName>Offline Alert with Visual and Audio</ScriptName>
+				<ScriptNotes>This script downloads a powershell script and an html file to a computer.
+
+The script then runs which opens the flashing HTMl page and plays a vocal alert warning about the server down.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/S4/XFumnTvd1Rurezu5/uPdrbf7S7l7784vFd74XHr6d1sWp/Mq+boloCcviBfv/5upgdPZzdyyf59GB77+H+3vbubr6/fbD/YLq9s7P7cLZ78HB/Os3N+/zC47v+eH7j5P8BNFduut8AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNcnK5uhl1s7fVALpbPn8zWcK9He/f/KyuqJX5nlZ0h+v8/oyr788Py+LZT5eNbsj/80vl8cX+bL9bPq73zumxlfFclZdAUbZNpdT+tnw65X3+levnn92Is2/a5s/f/Oamx+Xed2O5+2i1G6+/eaL58UG9NwLj++aoelI5Y2fpLZFtTzafXw3/CBo9fm6mB09nN3LJ/n0YHvv4f7e9u5uvr99sP9gur2zs/twtnvwcH86zQ0UfoEnQz9o/Kl53eYri8fxtFUE9Df9/Nl6yX+fzfCd95c/e7ud2dzr/H2v8/d+5+/77u/XVd0e7RC++KmfnVTLtliuc3xuf9fvvmyeF4uCXzG/6jdnyxlNesaDoW/9P32SOCpsIMveJrLcezhMmKNHNJPF+fWzqpzl9eO7+un/D4l1O2LtbaLVyTyfvi2WF+l5VaftPE9ZPn/fVTZ9m13kze/bCA/T1yDmmJ6fFYLuftPcd+9nk/t29zdQ9HeHrivq3/33jVMyTj6MRn8LyHj06HQ5i7Dzvfei7t43Td39n0XqbmbXOqcuiV1/7lj13jdNzK/PqjcTc/f+N86qH0i+/W+afD+bvPj/OUm///8l6m6U9GdZUeaztK3SKWQ+T2+gthH79PRdwRpCcPrZ0QGfftNk/no64HZk3t1E52/Yi3zwTRPm/s8i/93gRcbl8ZtlpINvml4/m173RnndKJVp/q5o2uZ3Tb+oLiGb1fJnyzo//KYJ+rMqmZsZ8Gl1tSyrbCbAI+T6cHLt7nzT9Po5Y0AbydzoGtpYxyUMUmnxs8WVu/8/im9+z0ia5/f8Gr5OlLvfz9vZ/f9PYGOoYRj4VvzoKPq+/Pj/qSBmb2dnA+VUtn/flRXm37eXWxxgz+mj31cTk+pUDr3Y4d/3pfb/j2KeW5Psh60K/v8Y+Ri6DBir9IcR6uz+KNYZosz/r4KdF09/GO7mwTdNsp8zd/ONNdLR4OZnSRjD8OYboN/PqjDeLrx5RuruZ4Vaezv/v+E2Dm5s3JJhbTPF2mZ6TsT7WWO3vf8/hS20vPx7foBv4nHp+3kmez97QcrPAhHfK0j52WW+/x/FKBozf/vNF8/Pls/fDPGhz6MfFnLs/f8o5Pi5k9z/t8cUt5fcgZiCDcnYGZIfyuLJ3o8iiiHK/P80ovjZ8/AOvmmC/Zx5eG/Unr5PNPGh1Pv/UzTxar38WQxc7+1806T6OWM0ItQyzDKny+rqd/3ZIdv/pwKIjWTjH3lLKeY0q2npSPT/Z+nvueLffs80/Rn5cM9+uPd7ms/u2c/uDXgyX4vQHqG/8SDjZ5PQu/fub4p1b0wxp+nHhuwf29/3vN9/tqj8/6mQ5Ifpudz7xuONn1vP5WfZmnxDgcV7WRPz99OszY5+4+T/AUXSe3g8MAAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>9d3ebec8-2942-11e4-847c-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<File
+			Name="L:\Transfer\scripts\powershell\serveroffline.ps1"
+			Bytes="77u/UGFyYW0gKA0KICAgICAgICAgICAgW1BhcmFtZXRlcihNYW5kYXRvcnk9JFRydWUsUG9zaXRpb249MCldDQogICAgICAgICAgICBbU3RyaW5nXSRTZXJ2ZXJuYW1lLA0KICAgICAgICAgICAgICAgICAgICANCiAgICAgICAgICAgIFtQYXJhbWV0ZXIoTWFuZGF0b3J5PSRUcnVlLFBvc2l0aW9uPTEpXQ0KICAgICAgICAgICAgW1N0cmluZ10kQ2xpZW50TmFtZQ0KCQkJDQoJCQlbUGFyYW1ldGVyKE1hbmRhdG9yeT0kVHJ1ZSxQb3NpdGlvbj0yKV0NCiAgICAgICAgICAgIFtTdHJpbmddJFJlc3VsdA0KICAgICAgKQ0KCQkJSWYgKCRyZXN1bHQgLWVxICdGYWlsZWQnKQ0KCQkJew0KICAgICAgICAgICAgJG1lc3NhZ2UgPSAiV0FSTklORy4gICAgIFdBUk5JTkcuICAgIFdBUk5JTkcuICAgU2VydmVyICRTZXJ2ZXJuYW1lIGZvciBjbGllbnQgJGNsaWVudG5hbWUgaXMgb2ZmbGluZS4iDQogICAgICAgICAgICBbUmVmbGVjdGlvbi5Bc3NlbWJseV06OkxvYWRXaXRoUGFydGlhbE5hbWUoJ1N5c3RlbS5TcGVlY2gnKSB8IE91dC1OdWxsICAgDQogICAgICAgICAgICAkb2JqZWN0ID0gTmV3LU9iamVjdCBTeXN0ZW0uU3BlZWNoLlN5bnRoZXNpcy5TcGVlY2hTeW50aGVzaXplciANCiAgICAgICAgICAgICRvYmplY3QuU3BlYWsoJE1lc3NhZ2UpDQogICAgICAgICAgICAkb2JqZWN0LlNwZWFrKCRNZXNzYWdlKSANCiAgICAgICAgICAgICRvYmplY3QuU3BlYWsoJE1lc3NhZ2UpICANCgkJCX0NCgkJCUlmICgkcmVzdWx0IC1lcSAnU3VjY2VzcycpDQoJCQl7DQoJCQkkbWVzc2FnZSA9ICJBdHRlbnRpb24uICAgICBBdHRlbnRpb24uICAgIEF0dGVudGlvbi4gICBTZXJ2ZXIgJFNlcnZlcm5hbWUgZm9yIGNsaWVudCAkY2xpZW50bmFtZSBpcyBiYWNrIG9ubGluZS4iDQogICAgICAgICAgICBbUmVmbGVjdGlvbi5Bc3NlbWJseV06OkxvYWRXaXRoUGFydGlhbE5hbWUoJ1N5c3RlbS5TcGVlY2gnKSB8IE91dC1OdWxsICAgDQogICAgICAgICAgICAkb2JqZWN0ID0gTmV3LU9iamVjdCBTeXN0ZW0uU3BlZWNoLlN5bnRoZXNpcy5TcGVlY2hTeW50aGVzaXplciANCiAgICAgICAgICAgICRvYmplY3QuU3BlYWsoJE1lc3NhZ2UpDQogICAgICAgICAgICAkb2JqZWN0LlNwZWFrKCRNZXNzYWdlKSANCiAgICAgICAgICAgICRvYmplY3QuU3BlYWsoJE1lc3NhZ2UpIA0KCQkJfQ0KCQkJ" />
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>206</FolderID>
+					<ParentID>190</ParentID>
+					<Name>One Off For Clients</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

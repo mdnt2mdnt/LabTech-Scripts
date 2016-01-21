@@ -1,0 +1,497 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5981</ScriptId>
+				<FolderId>195</FolderId>
+				<ScriptName>Weekly Backup Health Report*</ScriptName>
+				<ScriptNotes>Emails Reports to clients based on the settings of the Client. If Weekly, Monthly and Daily are set then all three will NOT be sent, instead the most detailed one will be chosen. This function script should be scheduled to run once a day from the Scheduled Client Scripts tab on the Dashboard.</ScriptNotes>
+				<Permission>2,</Permission>
+				<EditPermission>1,4,</EditPermission>
+				<ComputerScript>0</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvZmv62aWXY/SL6dtNcnrdG9nRP/f3U0fPLq3/+j+fnr8xeO73huPX0/rYtX+ZF43RbUE6PAD/f7zdTE7Os+mO/ce3nuwPct2su3d3fze9sMHB7vbOzv3d+5/evDg00/3ZuZ9fuHxXX9Av3Hy/wDtHthm4AAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7v3dj/99ODh3t69x3fDb4Lmn6+L2dF5Nt259/Deg+1ZtpNt7+7m97YfPjjY3d7Zub9z/9ODB59+ujczUPgFRl4/aPyhvG7zlR3O8bRlTB7f1d/082frJf99Nju6//iu95c/2t2j3735ReW0LPJlW8x+98d39VO/zd7Rp/r5XvD5vaMd/fxe8Pl+h6L3PeJVdYu3+Kd+dlJR18t1js/t7/rdl83zYlHwK+ZX/eZsOSOUMx4wfev/6ZPNUWoD6fY2kG5vZwPtdu8NEOxJNn27XqWv8hUNNP1unr8tr9PTRVaU6dPseoCaaOa+/f8xTXd37m0g6v379/b3z7NPtycP8l2Iyc52lk13tx/OHjx4cL67nx/c3xsgu/ByyMsxKvNMHM9mdd40X4vcu/9fIveDTSz8e3bp8XsO0PbhAD1N+w4BQSL9bRMh9/5/Q8gtFd+tF9XV1p07dwbIaFi3R0Z9fYicj0SJiEa5FWnv/X+JtLt7DzfQ1tiZDjE7QnpP/7ZEu0GI9/8/RaB7mwgU445vllj3/79ErM1Ge8h4vC7a/AU5gL+7MdihFT+v6vR3f/0Tz0+qxSpbXg/ZF9alr9eTn86nZibez7Z8+v8lSt/ClOc75z9LplwmBlMWEPq2hH7w/yVCbzbijhJD5vtggIa//weZ74P/L5Hwa2mFb+dZ2c5/fyHw7y+K4WeHHR/+f4mWm+31o5d1sWx/Fq3R7s4GYv2/j1ibbffPOrH+PxWtbGSs1/lyViwvApNsrUTaVunvGYQy6bpB65vV44dS+P9TYczX0oO/sGwPV3X+Cy/awzfzPPWcpTlryLSWKZlnTTrJ82V6kS/zOmvzGc/Sb5z4rlNaLdPf/WqeL3/3NFvO0qJJs7bNpnNqTHPYzumDHPM4pvfe4C8FPiVaZsWyoSY5fdasy7ZJq3P+U9GYzvPp24bea+dZm2Y1tVsv0xkBu0avWVmmGaHWNuOUGv3Gydl5el2tCe3LnHC5Tn/ROm9AGEJpUq1bQUa7X5V51qDjFQGjHnxUeSBNtcirZZ5eFdTNRd6mE/IgMSR0sapp9G15PUa3RFlHwt84AXXvKnk3+ZVPqtnXyw/t/n8qGny4yam8WZqPQi0wQNBffMKKoxnLz7Onv+SzmNPZdYx+T9/BN7A7XpI2wmyZFvfD6fh/Xex5b5P92n2wUSeXRIn0J7NynafPiMnTl3W1yuu2yJv0u/OcRBBz9dnH4koZ3f06b9erjw23f2DGOXBXvYnoSMH/67yGjVTfRPSH2cHu7NMHFFTtTSYSWT18+Olse2d38vDhNL/3cPqpIeE3bOr+v0TCjb4EcemU1AMcBNUE0NQzrP8sCijxeTGdk80gLoYqz9KAf8c/K9T9f50fsZFBN7q1nxPNjskMGtrCPsIUs8lsuEMYZDLdi2+Ylv9vzX9upOX+pzerWGOoRtCnI3WmROUqlQe06X5+b7qT7z8gbTHb2awtOgr3Pfn3/1Nm7UbtAPVALmnW4WIKQlr2FcUthDdKruYVDN1snf/sMPPPRfrV/P1UFtL/H3nBXGhXHwAA</ScriptData>
+				<ScriptVersion>1316689223</ScriptVersion>
+				<ScriptGuid>fac03937-da0a-11e3-9781-00505687662d</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>25</ID>
+					<Form>3</Form>
+					<Name>Weekly Report Email</Name>
+					<Sort>9</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>0</FType>
+					<Section>Daily Health Check</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>|Enter an email address to send the daily health report to.|2</Fill>
+					<LtGuid>55344fa6-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<ExtraDataField>
+			<NewDataSet>
+				<Table>
+					<ID>23</ID>
+					<Form>3</Form>
+					<Name>Weekly Health Report</Name>
+					<Sort>9</Sort>
+					<NoBreak>0</NoBreak>
+					<FType>2</FType>
+					<Section>Daily Health Check</Section>
+					<UnEditable>0</UnEditable>
+					<Collapsed>0</Collapsed>
+					<Fill>Health_Report_Weekly~Health_Report_Condense_Weekly~Health_Report_Full_Weekly~Health_Report_Summary_Weekly|Select the desired default health report to be generated.|2</Fill>
+					<LtGuid>55344e0f-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+				</Table>
+			</NewDataSet>
+		</ExtraDataField>
+		<PackedScript>
+			<NewDataSet>
+				<Table>
+					<ScriptId>40</ScriptId>
+					<FolderId>94</FolderId>
+					<ScriptName>Daily Health Check Setup</ScriptName>
+					<ScriptNotes>This script will create the Properties and Other necessary setups needed to run these scripts. The Else section contains items used to effect the XML Export and is NEVER meant to run.</ScriptNotes>
+					<Permission>1,2,4,5,</Permission>
+					<EditPermission>1,5,</EditPermission>
+					<ComputerScript>1</ComputerScript>
+					<LocationScript>0</LocationScript>
+					<MaintenanceScript>0</MaintenanceScript>
+					<FunctionScript>1</FunctionScript>
+					<LicenseData>H4sIAAAAAAAEAOy9B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0i+nbTXJ63T34Sjd29ndTe89urf/6P5++vKLx3e9Vx6/ntbFqv3JvG6KagnY4Qf6/efrYnb0MDvYnX36YHd7d28y2d7dzXe2Hz78dLa9szt5+HCa33s4/fRT8z6/8PiuP6LfOPl/AgAA//+R2siT4QAAAA==</LicenseData>
+					<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7v3dnYf3tu/f7D3+G74TdD883UxO3qYHezOPn2wu727N5ls7+7mO9sPH346297ZnTx8OM3vPZx++qmBwi8w8vpB4w/ldZuv7HCOpy1j8viu/qafP1sv+e+zGb7z/vJHu9sZ/V7n73udv/c7f9/3CFPV7dEO4Yuf+tlJtWyL5TrH5/Z3/e7L5nmxKPgV86t+c7ac5cs248HQt/6fPkkcFTaQZW8TWe49HCbM0bfwpGfn6bJq0yz9brGcVVdN+uXrUXr6rmhT6fPxXW3+c0zF3U9/7si4t4GM3zB/7d6CMu9Hmd2fRcp8+mADf529eH366k169vmLL1+dpmcv3nyZrupqlddtkTfpZVau6cfWx9/Os7Kdp6/yFY0/fZ2369XHo493P77zs8J5e+9P3587+f3myfvdPH9bXqeni6wo06fZ9c8ipe/9/Kb0FzTG+c8OqXuk3v9/G6nvfV1tip5/Fnjxa9ibn0MCbbTax8+fp69OX3756s3r9KvXp09HxJAnz796evo0ff1l+nt/8Tz97hk1+fz0Tfrm26dfjH9W6Pk1rNTPHT33DjaQczz+fUVgm99X5Pf3lz/H9c+S6/MNGKD/l5Pu939KxuX6Z42A/6+zK988AcVK/6xR8P9T5uLrUZDGQfg0+c8aDe//HNLwh0zDn2V5/vTnESV/lgX7wf//SflsXZY/a/Q7+P8G/T6Ufj/LAv3w5wkVf5aFeXfn//90fL1eLLL6Z5GG/78MVKI0/FkW6t2fB3GLoeTPtmD/fyqCuTkb8frk1dlLzUZQMoLSDmev05fHJ7/X8een6TFlzE6oFX317VP6nXJnXxz/XqecqNDExc9mnuL/U6HO7qYk5PnD6ezhp5P97Z18d1cW17L7eb796flk+unuZO9+lk1/dmj4/6lQZyMN9/N70518/wEtUM52BhcofzZo+P+pIOcGGn56/3z3/jlouPdDpeH/p6KbjTS8v/PpbP/T3Xtfk4YfQMODnwMamr+fZm129Bsn/w+B56xiviAAAA==</ScriptData>
+					<ScriptVersion>1301934582</ScriptVersion>
+					<ScriptGuid>9a81d671-12bb-11e0-996d-01b99ce39c66</ScriptGuid>
+					<ScriptFlags>16</ScriptFlags>
+					<Parameters></Parameters>
+				</Table>
+			</NewDataSet>
+			<PackedScript>
+				<NewDataSet>
+					<Table>
+						<ScriptId>41</ScriptId>
+						<FolderId>94</FolderId>
+						<ScriptName>Daily Health Check*</ScriptName>
+						<ScriptNotes>Performs basic health check of every machine to be used in a daily health report. Control this script from the Client Info Tab.</ScriptNotes>
+						<Permission>1,2,4,5,</Permission>
+						<EditPermission>1,5,</EditPermission>
+						<ComputerScript>1</ComputerScript>
+						<LocationScript>0</LocationScript>
+						<MaintenanceScript>0</MaintenanceScript>
+						<FunctionScript>0</FunctionScript>
+						<LicenseData>H4sIAAAAAAAEAFWPywrCMBRE94L/kA9oSG7pg5ZLNr42iqLiPklvIZu0pCnYv5cWhboaZoYzMHh2lvxAex21wufUkwIUi+J99Ltu9JGCkihWDg/v3oWZIXUMrtFTwq42doYCk2XCUgnAIK1lWWclu11QrAB82OD6+KIwuM7Py//Btz+NrlFtZZuqMBmXBMABSHKdE/GiNbYAk+Za2x+/ACjWf7abD3VdWyvfAAAA</LicenseData>
+						<ScriptData>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</ScriptData>
+						<ScriptVersion>1307374251</ScriptVersion>
+						<ScriptGuid>f9cd96b4-0e11-11e0-a5ee-6fbc61b25aac</ScriptGuid>
+						<ScriptFlags>1</ScriptFlags>
+						<Parameters></Parameters>
+					</Table>
+				</NewDataSet>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>20</ID>
+							<Form>1</Form>
+							<Name>Skip Health Check</Name>
+							<Sort>1</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>1</FType>
+							<Section>Exclusions</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>|Checking this checkbox will remove this computer from not being included in the daily health check process.|2</Fill>
+							<LtGuid>55344ba1-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>16</ID>
+							<Form>3</Form>
+							<Name>Workstations Failed Action</Name>
+							<Sort>7</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>2</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>Do Nothing~Record Stat~Raise Alert~Create Ticket|Select the action to be carried our when the health check finds an issue on a workstation.|2</Fill>
+							<LtGuid>55344865-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>18</ID>
+							<Form>3</Form>
+							<Name>Additional Server Checks</Name>
+							<Sort>8</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>2</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>None~Antivirus~Performance~Antivirus and Performance|Select any additional checks to be done on Servers as part of the health check process.|2</Fill>
+							<LtGuid>55344a00-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>17</ID>
+							<Form>3</Form>
+							<Name>Server Failed Action</Name>
+							<Sort>6</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>2</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>Do Nothing~Record Stat~Raise Alert~Create Ticket|Select the action to be carried our when the health check finds an issue on a server.|2</Fill>
+							<LtGuid>55344934-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<PackedScript>
+					<NewDataSet>
+						<Table>
+							<ScriptId>5724</ScriptId>
+							<FolderId>50</FolderId>
+							<ScriptName>Load Properties - Daily Health Check</ScriptName>
+							<ScriptNotes></ScriptNotes>
+							<Permission>0,</Permission>
+							<EditPermission>0,</EditPermission>
+							<ComputerScript>1</ComputerScript>
+							<LocationScript>0</LocationScript>
+							<MaintenanceScript>0</MaintenanceScript>
+							<FunctionScript>0</FunctionScript>
+							<LicenseData>H4sIAAAAAAAEAOy9B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfPauLWXY9Sr+zXubp3t4o3dvZ3UvvPdq592j3fnr8xeO7XuPHr6d1sWp/Mq+boloCaviBfv/5upgdHczy+/vT+9n2ZLI33d7dzXe3D6bZZPvBTrYz27s3mexM98z7/MLju/5YfuPk/wkAAP//57mMmtsAAAA=</LicenseData>
+							<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo4NZfn9/ej/bnkz2ptu7u/nu9sE0m2w/2Ml2Znv3JpOd6Z6Bwi8wzvpB44/gdZuv7CiOp60ioL/p58/WS/77bIbvvL/8Qe52Br3X+fte5+/9zt/3PXpUdXu0Q/jip352Ui3bYrnO8bn9Xb/7snleLAp+xfyq35wtZ/myzXgw9K3/p08SR4UNZNnbRJbdB8OEOXp9+vz05E168uVXL95s/QEviCH+gDvps1dffpG+rKtVXrdF3qTf/fbpq9NUvv3sY0Hj93/67ZPf/4tq9pNFvW6e5ufNl+XsaXbdfEyYK+yA5Eef6ud7Iekxdv0tmAJMp/72/5up+HTTTJy9eH366k169uLNlz7tdVJGf8BPZuUak/OTx8+/On2dbpl5GJqH0cf3dj6+E5+MD+T/3W+a6Ls/i0T/2eT/7+bFxbxl0r+eZstlXj+r1svZxz9UEdj7pmfj/5MiMDQVo4/v/2yJwb1vmvBfSwxuSfgfkhiQBnpWlPkPVwL2v+mJ+P+6BJhZGH28d/9nifnvf9M0//8B8x+/PF1mkzL/oRqAFkL1zU7F/9fZ383Dz6IAPPimqf7/VQEg5/NpXVzmXxTLZ3X+Q1b9B9/0LPx/jvdjU0Bsv/Pw058lxn/4TZP8/weM/7r4wQ+Z8Xd3vulp+P865/McjD7e/9nj/N3/Nwa+P9es/3La/vDV/u6Pgt6BaRh9vPuzFe/u/ijgDXxNJj2I/nqVTX/YAmBj3m9qLv4/KQDRiSAR+Nly+nd/FPb2Kf/6i+NXb37I7P+jmNdMQjAJcH9+tlj/RwFv1+pm757V2cUPmfMPvulp+P8k53fn4GdT5/+/O+DtUPxnk/EDa/vDZvy9nR8xfmQOfhYZf+9H4W6f6Kd1XdXND5n1N0W7X2si/r/O+joLo4/v/Wy5O3s/CnadqT1btrSsQqDJ3D6vLorlz4kU/CjkjU2HNx0/i6tdez8KfB39X9bnr7PFqsyfZtc/bCH4UeAbnYTRxwc/W5z///K494fN+ScvvyIrQOnmHzLjH/yI8SNz8LOY8Nn7UdwbOJ5E9+PLCyL9D5fx7+1snob3n4b/TzJ+dw5+Fl3/ez+KeyPa5s28zpt5Vc5+yOz/o9h3eCZGH+/e/9kSgh/FvxHSv1gvXq+Kt/kP2eu/96PQd3gmRh9/+rMlA/9fCHp/KDJgrS8Rn8n+Q+b/H0W98VkgA/Cz5gX9KO4N1M4Xp1/8XMS99w5umIb3nob/T7J+dw5I6f+sMf6P4t5IzEWk/+Ey/v7ONz0N/59k/O4c9OJebyY+kPH3fxT3RrTNz1Hcu/+juHd4JkYf7/5sLXTt/38t7v2hCMHPUdy7/6O4d3gmfvbi3v0fxb1d60vE/zmIe/dvEfe+30T8f5L/+7Mw+tmLe/d/FPeGaqdYfvn6J/O6oQ5+yNx/8E3PxP8nuT8yDaOP74/3lP+/cf7/UfjbVTtfvv7hMv79nW96Cv4/yfg+/Ucf7/1sKfz7/98Oe795hs/a6fykLtpimpU/ZMb/UdA7NA+jjx/8bIW8938U8vYJf1rml1mb/5CzPvffP+D9/7kA2Hn42bQAP4p3+4R/3WbLWVb/sAXgRxHv0DyQ0x/j/2+C/38uQl7z99OszY5+4+T/AY9uCzHHWAAA</ScriptData>
+							<ScriptVersion>1</ScriptVersion>
+							<ScriptGuid>8de54c5a-bb2c-11e1-8cab-70a0d23bb0c2</ScriptGuid>
+							<ScriptFlags>0</ScriptFlags>
+							<Parameters></Parameters>
+						</Table>
+					</NewDataSet>
+					<ScriptFolder>
+						<NewDataSet>
+							<Table>
+								<FolderID>50</FolderID>
+								<ParentID>47</ParentID>
+								<Name>Functions</Name>
+							</Table>
+						</NewDataSet>
+					</ScriptFolder>
+					<ScriptFolder>
+						<NewDataSet>
+							<Table>
+								<FolderID>47</FolderID>
+								<ParentID>0</ParentID>
+								<Name>_System Automation</Name>
+							</Table>
+						</NewDataSet>
+					</ScriptFolder>
+				</PackedScript>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>19</ID>
+							<Form>3</Form>
+							<Name>Skip Missing Virus Scanner</Name>
+							<Sort>8</Sort>
+							<NoBreak>1</NoBreak>
+							<FType>1</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>|Selecting this checkbox will ignore any machines that are issuing the virus scanner from reporting as such.|2</Fill>
+							<LtGuid>55344acc-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>94</FolderID>
+							<ParentID>47</ParentID>
+							<Name>Health Check</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>47</FolderID>
+							<ParentID>0</ParentID>
+							<Name>_System Automation</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+			</PackedScript>
+			<PackedScript>
+				<NewDataSet>
+					<Table>
+						<ScriptId>42</ScriptId>
+						<FolderId>94</FolderId>
+						<ScriptName>Daily Health Report*</ScriptName>
+						<ScriptNotes>Emails Reports to clients based on the settings of the Client. If Weekly, Monthly and Daily are set then all three will NOT be sent, instead the most detailed one will be chosen. This function script should be scheduled to run once a day from the Scheduled Client Scripts tab on the Dashboard.</ScriptNotes>
+						<Permission>2,</Permission>
+						<EditPermission>1,4,</EditPermission>
+						<ComputerScript>0</ComputerScript>
+						<LocationScript>0</LocationScript>
+						<MaintenanceScript>0</MaintenanceScript>
+						<FunctionScript>0</FunctionScript>
+						<LicenseData>H4sIAAAAAAAEAFWPwQrCMBBE74L/kA9oSNLGlpQlICpeFEHFe5ssmEta0gTs32uLQj0Mw87wFgZOzqAfcN/ERsN97FELYLPDNfldl3zEoDmwxQWHV+/CxKC+P1MYbDNm5GJi12IgOc8+EoJUdSHrjSTbM7AFATcTXB8fGAbX+en1f/Dtj8lZLbEwHGVFRW45FQI5Vaq0lItWKYOFMmX542cA2HLQevUGqm3He+AAAAA=</LicenseData>
+						<ScriptData>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</ScriptData>
+						<ScriptVersion>1316689223</ScriptVersion>
+						<ScriptGuid>4e3c0e47-12d0-11e0-996d-01b99ce39c66</ScriptGuid>
+						<ScriptFlags>16</ScriptFlags>
+						<Parameters></Parameters>
+					</Table>
+				</NewDataSet>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>21</ID>
+							<Form>3</Form>
+							<Name>Daily Report Email</Name>
+							<Sort>9</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>0</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>|Enter an email address to send the daily health report to.|2</Fill>
+							<LtGuid>55344c6a-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>25</ID>
+							<Form>3</Form>
+							<Name>Weekly Report Email</Name>
+							<Sort>9</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>0</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>|Enter an email address to send the daily health report to.|2</Fill>
+							<LtGuid>55344fa6-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>26</ID>
+							<Form>3</Form>
+							<Name>Monthly Report Email</Name>
+							<Sort>10</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>0</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>|Enter an email address to send the daily health report to.|2</Fill>
+							<LtGuid>55345078-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>22</ID>
+							<Form>3</Form>
+							<Name>Daily Health Report</Name>
+							<Sort>9</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>2</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>Health_Report_Daily~Health_Report_Condense_Daily~Health_Report_Full_Daily~Health_Report_Summary_Daily|Select the desired default health report to be generated.|2</Fill>
+							<LtGuid>55344d40-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>23</ID>
+							<Form>3</Form>
+							<Name>Weekly Health Report</Name>
+							<Sort>9</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>2</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>Health_Report_Weekly~Health_Report_Condense_Weekly~Health_Report_Full_Weekly~Health_Report_Summary_Weekly|Select the desired default health report to be generated.|2</Fill>
+							<LtGuid>55344e0f-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ExtraDataField>
+					<NewDataSet>
+						<Table>
+							<ID>24</ID>
+							<Form>3</Form>
+							<Name>Monthly Health Report</Name>
+							<Sort>10</Sort>
+							<NoBreak>0</NoBreak>
+							<FType>2</FType>
+							<Section>Daily Health Check</Section>
+							<UnEditable>0</UnEditable>
+							<Collapsed>0</Collapsed>
+							<Fill>Health_Report~Health_Report_Condense~Health_Report_Full~Health_Report_Summary|Select the desired default health report to be generated.|2</Fill>
+							<LtGuid>55344eda-b7e1-11e0-aac1-9d777f14e852</LtGuid>
+						</Table>
+					</NewDataSet>
+				</ExtraDataField>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>94</FolderID>
+							<ParentID>47</ParentID>
+							<Name>Health Check</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>47</FolderID>
+							<ParentID>0</ParentID>
+							<Name>_System Automation</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+			</PackedScript>
+			<PackedScript>
+				<NewDataSet>
+					<Table>
+						<ScriptId>43</ScriptId>
+						<FolderId>94</FolderId>
+						<ScriptName>Daily Health Event Recorder</ScriptName>
+						<ScriptNotes>Call this Script from a monitor that is firing on Event Log Errors you want to track.</ScriptNotes>
+						<Permission>1,5,4,2</Permission>
+						<EditPermission>1,5,</EditPermission>
+						<ComputerScript>1</ComputerScript>
+						<LocationScript>0</LocationScript>
+						<MaintenanceScript>0</MaintenanceScript>
+						<FunctionScript>1</FunctionScript>
+						<LicenseData>H4sIAAAAAAAEAOy9B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0i+nbTXJ63T34Sjd29ndTXd3H93bf3R/Pz3+4vFd753Hr6d1sWp/Mq+boloCePiBfv/5upgd7eef3j/fvX++vbs329ve3c13th8+/HS2vbM7efhwmt97OP30U/M+v/D4rj+k3zj5fwIAAP//ZUtF/uIAAAA=</LicenseData>
+						<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7v3dnYf3tv/9NOHj++G3wTNP18Xs6P9/NP757v3z7d392Z727u7+c72w4efzrZ3dicPH07zew+nn35qoPALjLx+0PhDed3mKzuc42nLmDy+q7/p58/WS/77bIbvvL/80e52Rr93tPP4rv7mf36v026/8/d9j0BV3QIK/9TPTqplWyzXOT63v+t3XzbPi0XBr5hf9Zuz5SxfthkPir71//RJ46ixgTx7m8hz7+EwgY5e5dOqnqVZ+pr6Tk+q9bJN53mdp+2c/r4qyjKd5Om0zLM6n6WzrCiv0/O6WtD3OTXMynaeTuf59G3aMHZjJfBuSPgOQf//TfCdnQ0E/92n1WK1JjEsZr97nFZHJ3XRFtOsPK3rqj69JCx5XqT1B7Lu7s8BJc3fqrP+H4iJTzPCBAAA</ScriptData>
+						<ScriptVersion>1301934669</ScriptVersion>
+						<ScriptGuid>4e65f15f-12d2-11e0-996d-01b99ce39c66</ScriptGuid>
+						<ScriptFlags>16</ScriptFlags>
+						<Parameters></Parameters>
+					</Table>
+				</NewDataSet>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>94</FolderID>
+							<ParentID>47</ParentID>
+							<Name>Health Check</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>47</FolderID>
+							<ParentID>0</ParentID>
+							<Name>_System Automation</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+			</PackedScript>
+			<PackedScript>
+				<NewDataSet>
+					<Table>
+						<ScriptId>44</ScriptId>
+						<FolderId>94</FolderId>
+						<ScriptName>Daily Health Disk Event Recorder</ScriptName>
+						<ScriptNotes>Call this script from a monitor that is monitoring Disk Event Log errors you want to track.</ScriptNotes>
+						<Permission>1,2,4,5,</Permission>
+						<EditPermission>1,5,</EditPermission>
+						<ComputerScript>1</ComputerScript>
+						<LocationScript>0</LocationScript>
+						<MaintenanceScript>0</MaintenanceScript>
+						<FunctionScript>1</FunctionScript>
+						<LicenseData>H4sIAAAAAAAEAOy9B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0i+nbTXJ63T34Sjd29ndTXd3H93bf3R/Pz3+4vFd753Hr6d1sWp/Mq+boloCePiBfv/5upgd3d/5dLb/6e697d292d727m6+s/3w4aez7Z3dycOH0/zew+mnn5r3+YXHd/0h/cbJ/xMAAP//qF2X7eIAAAA=</LicenseData>
+						<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7v3dnYf3tv/dG/v8d3wm6D55+tidnR/59PZ/qe797Z392Z727u7+c72w4efzrZ3dicPH07zew+nn35qoPALjLx+0PhDed3mKzuc42nLmDy+q7/p58/WS/77bIbvvL/80e52Rr93tPP4rv7mf36v026/8/d9j0BV3QIK/9TPTqplWyzXOT63v+t3XzbPi0XBr5hf9Zuz5SxfthkPir71//RJ46ixgTx7m8hz7+EwgY5e5dOqnqVZ+pr6Tk+q9bJN53mdp+2c/r4qyjKd5Om0zLM6n6WzrCiv0/O6WtD3OTXMynaeTuf59G3aMHZjJfBuSPgOQf//TfCdnQ0E/92n1WK1JjEsZr97nFZHT+viMj+t66o+vSQUeVIs334IGXd/Dsho/laF9f8A/6Np7b8EAAA=</ScriptData>
+						<ScriptVersion>1301934622</ScriptVersion>
+						<ScriptGuid>506d4613-12d2-11e0-996d-01b99ce39c66</ScriptGuid>
+						<ScriptFlags>16</ScriptFlags>
+						<Parameters></Parameters>
+					</Table>
+				</NewDataSet>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>94</FolderID>
+							<ParentID>47</ParentID>
+							<Name>Health Check</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>47</FolderID>
+							<ParentID>0</ParentID>
+							<Name>_System Automation</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+			</PackedScript>
+			<ScriptFolder>
+				<NewDataSet>
+					<Table>
+						<FolderID>94</FolderID>
+						<ParentID>47</ParentID>
+						<Name>Health Check</Name>
+					</Table>
+				</NewDataSet>
+			</ScriptFolder>
+			<ScriptFolder>
+				<NewDataSet>
+					<Table>
+						<FolderID>47</FolderID>
+						<ParentID>0</ParentID>
+						<Name>_System Automation</Name>
+					</Table>
+				</NewDataSet>
+			</ScriptFolder>
+		</PackedScript>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>195</FolderID>
+					<ParentID>0</ParentID>
+					<Name>TST</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

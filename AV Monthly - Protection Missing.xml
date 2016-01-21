@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>6014</ScriptId>
+				<FolderId>221</FolderId>
+				<ScriptName>AV Monthly - Protection Missing*</ScriptName>
+				<ScriptNotes>Should only be called by the AV monthly script.</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>1</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0u+sy+v03s4o3dvZ3U93dx7d26f/pS+/eHzXe+Hx62ldrNqfzOumqJaAHH6g33++LmZHu/ks37m/M9vefXiQbe/u5vvbk9n+w+0d+vD+pwcPPv10b2be5xce3/XH8xsn/w+lHOfL3wAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo918lu/c35lt7z48yLZ3d/P97cls/+H2Dn14/9ODB59+ujczUPgFxlk/aPwRvG7zlR3F8bRVBPQ3/fzZesl/n83wnfeXP8jdo9+zzZv2Mqsf39UP/K/3jj7Vz/eCz+8d7ejn94LP9zs0vO+Rq6pbvMU/9bOTatkWy3WOz+3v+t2XzfNiUfAr5lf95mw5y5dtxmOlb/0/fYo5Im2g2t4Gqu093EA2AZm+ns7z2boslhfpeVWn7TxP22L6Nm/TaZ0zTulVVb/NZ79rnL4det3r/P3/L3rubKDn7u4AAzZ5mU/bdEkCmZ7X1SKdlgXh16RX87zO9a9iln6W/u7m999dQXV59g3PzAm3ekHwvhYL7/5/ieT7n24geY9eXdL/7tNqsVqTGhwmKZQHa5AxtY3T8+j19SJbtvk0PV2uqmLZpi/riv5k4XiVr4iYLDsyL+nvKfIjuGHWf8+R+ersqTfHY+1tP5yto9cVMcoX2XReLPMmzdpbwm1+UWlBpxkx1rJq05Ugms/G6es8Z+mmYS6Y/YBylpZF06bVebrQDg1W9wOe2fv/Es9sVHsiQunvLsQErVjP/Wzpt3sfRLgfMuF2H26Sttenz09P3qROpEYvjr84HVn99ezVl1/Yb5v0u98+fXXqtU7PXqRbPRjy1h/QrCcXdbVeNX+Avsd/QSnu3tvfu5Mev3jqKcqA139Wpm3//0vTttksDahG4/509WFdXX0tq3L//0sU2723SUU8el5Vq/R1m9XtzwpzfXprUv2/gVQ7G33vabVetr/ne/KY4cn347AH3zTZ7v0sku1ryeTvvsjaeZ0367Idcle+rnge/H+JeA82Ec9R4LaRHszFjILkJm/pZeZYQ96upyeif/riadw36xD14c82Ub9Jou4+fLCBqo5EA8T9PYl0Rs47BH5P9be78/8psu0cbIpArBs5QDYj6l2ePFEPiP12OPO/u3XiXcgC53865PynRZOul87BH+Bog8BmTkbw+v+dOXlfB18innyWXhXt3DqfHJD/7q9/4rmQf6tD/Ds/K7Z/970iqZ9rQu9upPTPtp+0+40HT/s/m7S6hU/pDMs3TKn/T8UrG7mqM9IPpszPRVxi/n4qefv/Bw4PYMfGFwAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>1ede050d-198a-11e4-bd49-00505687662d</ScriptGuid>
+				<ScriptFlags>1</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>221</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Service+</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

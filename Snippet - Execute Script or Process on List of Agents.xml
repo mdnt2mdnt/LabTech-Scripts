@@ -1,0 +1,45 @@
+﻿<LabTech_Expansion
+	Version="60.276"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5957</ScriptId>
+				<FolderId>195</FolderId>
+				<ScriptName>Snippet - Execute Script or Process on List of Agents</ScriptName>
+				<ScriptNotes>[Not Ready for Production]</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfPauLWXY9Sp/m03wxyet05/4o3dvZ3U8/fbR7/9Hep+nLLx7f9V54/HpaF6v2J/O6KaolIIcf6Pefr4vZ0d7BbHc/e/Dp9sFONtne3c33tx/uTO5t7+zsTPcezrK96QP7Pr/w+K4/nt84+X8APWXuct8AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo72D2e5+9uDT7YOdbLK9u5vvbz/cmdzb3tnZme49nGV70wc7Bgq/wDjrB40/gtdtvrKjOJ62ioD+pp8/Wy/577MZvvP+8ge52xn0Xufve52/9zt/3/foUdXtEQaAn/rZSbVsi+U6x+f2d/3uy+Z5sSj4FfOrfnO2nOXLNuPB0Lf+nz5JHBU2kGVvA1n2dobpAprpbwF9jh7u7O7sjB7u7O3s0r/7O6bdXki3o+dF0355flItVmswkra69/9fat7bwGVD1PxAbtvdTJ//d9Hna3Hb72kY6Ozp7znAaF/ksyJrq9q1/Fq8tvf/JVru3nu4gZiPXrdZ3b7KJ1XVvqyrad4Y8ftm2e/e/5dItpn9hvjv9enz05M36dbz0xefv/n21se/Z0et/Z4f30m3U/321enL58cnp7FWI/7v4zt37qSfpLvp8ev0xXrRV49d3o42ujVf8+Tsf9OTtPuzOUmb2JqIMcnrtDpPp4YiaVul9XqZNtxbml1kxbJp06J5lP6eIe1+z3H6Zp6nJU2MDyE9e9qkWZ1T++6cjX9WZOb+/6em4+uo7J0BXj6p1sv2a7Hwp/9fotkNqvlnXys/sNT6/wC1HmziMJ9julz26QCXdcU+znBHj06Xs9hU7G8k7cE3Tdq9n0XS7j7Y5JDu7Q15XF09OEDo0QBlf0+eNfNWh55HAGsdtPsBcR9+08S997NI3I2GSkCSFUqbq6KdzovlBQyVc1DTj39PIcTv+XHazvNlmr/Lp+uW25GRMtZsOUtXwp3j9EX+rk3P8yvzZVldpAv6JrvIm3SaLdNqWV6nkzw9J/LP6K+0nWettXM/O8Zsd+f/U3P2IR7gm1dnX2y5abszaOQ+KAgBFv/fIehmU/etb6XqEKdvvn32On1+9uI0/e7Zm2/Tn6fp65NXZy+JrF+mT07T09/79OSrN6dP029962eHT7/x4O5nlaw7mxR3qF83Ol+OXtZZ62pr38Rutn2733i097NKw40K+ofghe1+43HXzyq5NjutA87SN0yxbzw02vlZpNhmB8Ca/Uk2fQvbD7O+0ERV2lw3bb5ItzyH4Md/z34a6/e8Q6+RDW+Qzcln9Ad5FMYhuM0UvP8UfOOR1s+mg/u1otMYnX+WbPk3Hoj9rBJzEz+fintKTiWlTsDKyoXpPGvI5yQHFn5mSStGs58lxjz4OaCl+fuprJ/9P9ZiisROGwAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>28d14a76-80ab-11e4-90b3-000c29da2c70</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>195</FolderID>
+					<ParentID>191</ParentID>
+					<Name>Snippet</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>191</FolderID>
+					<ParentID>0</ParentID>
+					<Name>ServicePlus</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

@@ -1,0 +1,67 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5886</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Uninstall IE 11.0</ScriptName>
+				<ScriptNotes>Uninstalls Internet Explorer 11.0 from the system.  To complete the uninstall the agent will need to be rebooted.  IE11 will continue to run until the agent computer is rebooted.</ScriptNotes>
+				<Permission>1,2,4,5,</Permission>
+				<EditPermission>1,4,5,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvc7adT3Lrkfp03yaLyZ5ne7ujNK9nd3d9ODR7sNHOw/Sl188vuu98vj1tC5W7U/mdVNUS8AOP9DvP18Xs6NP7+/OHuw9+HT7/l7+YHt3N7+3nZ3fz7d3dnbv35/t7t87383N+/zC47v+iH7j5P8B2Ihw9eEAAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo0/v784e7D34dPv+Xv5ge3c3v7ednd/Pt3d2du/fn+3u3zvfzQ0UfoFx1g8afwSv23xlR3E8bRUB/U0/f7Ze8t9ns6P9x3e9v/xB7h59+/d6/sXv+7o6b6+yOv99vyimddXQX7/v2ZLGv8zb9PTdqqzqvP59m8upDu7xXX3ZB7V3dKCf7wWf3zva3R3v6Ff3gq/2OyS/71G3qtsjeot/6mcn1bItluscn9vf9bsvm+fFouBXzK/6zdlyli/bjElD3/p/+gR2NN1A5L0NRN6993ADmb+FJz07T5dVm2bpd4vlrLpq0i9fj4jARZtKn3HCdqh0r/P3zwIVdz/9uSPj3gYydkZ6A2VupMzuN06Z3Z9FymwizNGrfFFdFsuLtCe3KcQvPa+rRdrO87S5btp8Mf5Z4bS9r0HPBz93nLa7s4GgRS70G9B1v+sjpnh+drq7G1d770m7e/8fo93920vp0e/6zZBo/z1JdDOJflbFdQOFjs6WaVXPSDjbKhVGGhDcUXqVp8s8n6HltKyaSMNxmr4s84y+mlVsX+q8abO6jYBcEyeVpAeKJv1qWSypWVmm86xJp9ViVZLLMxvQDEe/+7RaNlWZL9eLSV7/7t/IhN7/xid072dzQjfp3zd5vSiW1CupYKjZPumhUOiXdFVX07xp0nq9XKJ1tfxZ18uffuN0/tkUnN29r62WQzq8N50e/IhOt6LTwf+36LTRMe/b8W+WVg+/cVr9/86u736dCOUW/PSzRKONhv13tWb1Jmf8ulrX6etNWv9nxeaCzb9hYv9sGt3dvU83UPtq3WTj/F2e3nXezN23k0d7B/u7u/eIFL9oXRD17y4rdYl+VkQcivh9Sbrzcyfimwj67MtXz86en75O775Mf/fvnr14evbqd/99m7y+LKbEz7/vy2z6NrvIKQv2RWpTRduazNg23G6YfftbxO3fGi/Wi/TuNP1oupjhZz6dV875hJSsBGr6e54vKe2W/sJssTrkf1JxY+9epau3F4uLOr27Xj3SVr2p/ag3t9/I3H7zcdnPqq17P/29982olP8/BmYmIGLnfG21S3V+s1IXV34kfwDOml5IF+umTSc5BWeTqkKglabfnReldODUlwkPCheTjYa6vCrohalSGAEixRQa4nmIAJTt9IdpaX6uw7v3Y4sfauLxa0Rkmy3Gz6YN3hz42tiV0xQN2NDjck5bvKco/ewEwbv/H4vuHmwg+r375/n9vVm2/TD/9L4sJU0efjqjpaT7O/c/ffjppxMI388GEb9G6LeZcX8WafjDFemvEej97Ir0va8r0gPW5gVlFp9V6+VMUlZkVX42c1bffEx4C6fa/P1Uloz/H8T14+9BHgAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>651d7276-52e7-11e3-af5e-00155d143f1e</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<PackedScript>
+			<NewDataSet>
+				<Table>
+					<ScriptId>5879</ScriptId>
+					<FolderId>3</FolderId>
+					<ScriptName>Auto Created Script Reboot</ScriptName>
+					<ScriptNotes>Auto Created Script</ScriptNotes>
+					<Permission>3,2,1,4,9,7,5,6</Permission>
+					<EditPermission>3,2,1,4,9,7,5,6</EditPermission>
+					<ComputerScript>1</ComputerScript>
+					<LocationScript>0</LocationScript>
+					<MaintenanceScript>0</MaintenanceScript>
+					<FunctionScript>0</FunctionScript>
+					<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvVnnzSy7HqXP8km9zurrdO/+KN3b2d1PHz66d/Do/l768ovHd703Hr+e1sWq/cm8bopqCdDhB/r95+tidnTv/nl+f2+WbT/MP72/vbub39uePPx0tr2zc3/n/qcPP/10snvfvM8vPL7rD+g3Tv4flu7KsOAAAAA=</LicenseData>
+					<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo3v3z/P7e7Ns+2H+6f3t3d383vbk4aez7Z2d+zv3P3346aeT3fsGCr/AOOsHjT+C122+sqM4nraKgP6mnz9bL/nvsxm+8/7yB7nbGfRe5+97nb/3O3/f9+hR1e3RDuGLn/rZSbVsi+U6x+f2d/3uy+Z5sSj4FfOrfnO2nOXLNuPB0Lf+nz5JHBU2kGVvA1n2hsly9OnB47v663vR5+h3P/nyi5dfvTl9dfb0d1cQ+yHJMCb97eeadOZvFZH/B0NLBlcxAwAA</ScriptData>
+					<ScriptVersion>1</ScriptVersion>
+					<ScriptGuid>35fe52da-9e65-11e3-b96d-005056966b15</ScriptGuid>
+					<ScriptFlags>0</ScriptFlags>
+					<Parameters></Parameters>
+				</Table>
+			</NewDataSet>
+			<ScriptFolder>
+				<NewDataSet>
+					<Table>
+						<FolderID>3</FolderID>
+						<ParentID>0</ParentID>
+						<Name>Actions</Name>
+					</Table>
+				</NewDataSet>
+			</ScriptFolder>
+		</PackedScript>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

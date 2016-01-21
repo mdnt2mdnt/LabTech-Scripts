@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5870</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>OffSite Event Log Backup</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>2,</Permission>
+				<EditPermission>1,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffVEtZ9n1KH2WT+p1Vl+nu7ujdG9n915679HO3qPdT9PjLx7f9V54/HpaF6v2J/O6KaolIIcf6Pefr4vZUfYwy+7vn2fb9/em+9u7u/m97cnu/fPtnZ3dh7Pdg4f702lu3ucXHt/1x/MbJ/8P5F2wNN8AAAA=</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNcnK5uj1erWq6vZ10eafNfL7+F05rZbjabV4fNc007ekx58kSEW1PNp9fDf8IGj1+bqYHWUPs+z+/nm2fX9vur+9u5vf257s3j/f3tnZfTjbPXi4P53mBgq/wAPTDxp/mK/bfGXxOJ62ioD+pp8/Wy/577MZvvP+8imx26HMXufve52/9zt/33d/vyZyHe0Qvvipn51Uy7ZYrnN8bn/X775snheLgl8xv+o3Z8tZvmwzHgx96//pk8RRYQNZ9jaRZefeMGGOdh/snO/k0/Pth/t5ptOV33tA03V/5/6nk8m9B58Scto4oOHR715WU8a3mP3u2mQvJOvR82z5ep7VuX597/+/VN7b2UTkAQqePPp9f/9Xr05+39NLQip9Xl00IR0tHVdZO39O1C6/FiF3/39PyN9zmTWGG3/P3xd/NWC739Oj7O/7u5N6W61JJy5JNQ4xLAj94vj11yLz3v+XyLz7YG8DnV/nZT5t0wWhPQe50q0X1dXWnTtx8n+gNr33/ym63Xu4gW6PTuo8a3MW1eN6Oi8ujer7WiQbJNn+/39I9mZeNGlDINPpPJ++bdK2Sps8T4vztJ3n6XlVzvI6hVymWUnUnV2n+buiaZu0WnILyH2ZzvLLYpqn23ivaNNZlTcj/nqZv2sF/pbCmmKOCJU7KXp+W6xW+Sx4cflxO/I7p2b8Tj4b/6zM5v1vejZ3fzZnc3d/w2z+nmW2VNV7WazqvFg2bVaW5e+7uB4vmmJAfRsPo6uNH31xnb7OuaevpZE//aYJu/ezSdj797uE9QlrXYDf82eFBx9806S697NJqltqlKuiLNOfKlYszNYVSJ8WNTFVVV+n2XJGLas6pxZZm/7U2cuYVvnZkfqDb5riP5tSf7DJWyA39rvFclZdNb/v62si/OLe3u97VSzzy/b39Xzans/mOPr3/d2bX0S6vVmX7e8+/kGxiquD96Tvw2+avj+bwr8XZWjD0BXp0PR18YM8rcQqgqfPizJPr7Im/d2JYg19+bv/7PDp7s7/lwh5k39Wra7bynn43zCp/j8Vad1Wi35Nv4yI/P9Nd2z3Gw/kvq5mvtUsbvbHNKD9PX/f93S9TKT9fg7X7jcey/2s6oqbPS6Q7meHyb7xEO7/NQ7XlHQsyyv5/5dFtW7KayOw7GGd19WiH7mRelGt8bND7/9vBVmfPgC9N3HmRs8p6muxGvjZ8LR2/z8VZ21OMO7djvuOKKj9yaw2vu17aslvPNj62XQTNrqmv6fS4WdJSR78f4lQu5so1Rnp7SizgTLfeHRzC8qYv5/KeuT/A67XFYKeHAAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>a9aa54fa-52c4-11e3-b15f-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

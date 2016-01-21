@@ -1,0 +1,36 @@
+﻿<LabTech_Expansion
+	Version="60.262"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5904</ScriptId>
+				<FolderId>190</FolderId>
+				<ScriptName>Auto-Uninstall Blacklisted software.</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0i+y63R3f5Tu7ezup3uP9j99tPswffnF47te88evp3Wxan8yr5uiWgJu+IF+//m6mB09+HQ2fTCdZNuzyYPJ9u5ufm97cn/n3vbOzu7D2e7Bw/3pNDfv8wuP7/qj+Y2T/wcJOHvQ3QAAAA==</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+XxezowefzqYPppNsezZ5MNne3c3vbU/u79zb3tnZfTjbPXi4P53mBgq/wDjrB40/gtdtvrKjOJ62ioD+pp8/Wy/577MZvvP+8ge52xn0Xufve52/9zt/3/foUdXt0Q7hi5/62Um1bIvlOsfn9nf97svmebEo+BXzq35ztpzlyzbjwdC3/p8+SRwVNpBlbxNZ7j0cJszRm3nRpE3OX6YzcMOiWOZN2s7ztKnO26usztO2Sid5ul4Wy6bNyjKfjR/f1fd/3pJ1b2cDVXfj9Dn63eu8WZdt87vr93shvY5eK8VfkGBqk3s3kTAg4e43TcK9nzMSDtHw9enz05M36Vcvzl68fnP8/Hn67NWXXzhe/e63T1+dpi+OvzhNP0s//j3N50ui6O/5cXr84mk6rRarNTF6MaMWv7v7a2hSLN+vsnb+tWZl7/9Ls7JZXzz6ylAjNcz6s6IL7n3TJPvZ1AW7n26g2O8Z8M/v+Y1TC1Ta/6ap9bPJYHub+MuxV3We/p6+Pvw903nWkB3Kl2nWtvli1eaz3/V3/Vkh5/1vmpz3fhbJeYO8npLG+yHJ7KffNNl+NmX2/v4PzV188LNKl2+YLjewk2Gg9GSeT9/+rLDRwf+XyLVRmTGNiuUFHOgmz9Oip9LgfLcFCaZzren5WSHrw2+arD+rSm2jbxgSccBP9DyVZ1lBlI27d+9Jxd2db5qMH2pqvzZ3bjK1zZrC9HwGC5u+qNp0WueELXFylrbF9G3ekg2mGJHYty0W+c8OwyIC+GZJ/bPLsRto/Q0blN3/PwUUcFCsVZn+rFmV3f9vRRS3DcKeZZ5q+4Yp9o1HFT+bFNvfFIP97tOyoG5djN9LzNycBmjzpv098c+Y2sbTAEdPymz6tiwaCk1cRsLGf+k526H0vKq7+paSbxYFpCoMEvvhDH2DHYx/4+T3qdbpFZyPJal6+CgOEKv2RbZc0x/XRr3fD9njG4+Sdn8W2eOHqp6/8UBok3r+YMrcoJ6XMy9+DDypb1jd/FyESebvp7J68v8AO3u2MkwZAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>76dc7cba-db7b-11e3-b503-0019d1894cce</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>190</FolderID>
+					<ParentID>0</ParentID>
+					<Name>*Phillip</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

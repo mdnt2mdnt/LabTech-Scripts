@@ -1,0 +1,131 @@
+﻿<LabTech_Expansion
+	Version="100.334"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5942</ScriptId>
+				<FolderId>54</FolderId>
+				<ScriptName>LabTech Installation PreReq Check</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>35,37,45,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffVEtZ9n1KH2WT+p1Vl+nO7ujdG9n99N099HOzqN7++nLLx7f9V54/HpaF6v2J/O6KaolIIcf6Pefr4vZ0STb33mwfzDZnh7kn27v7ub3t7Ps073tnXx39zyf7T18eP/cvM8vPL7rj+c3Tv4fNE1ftN8AAAA=</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>ba40748b-c8e6-11e5-aa62-0e11fed2995f</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters>MySQLPass,Ticket#,useremail</Parameters>
+			</Table>
+		</NewDataSet>
+		<PackedScript>
+			<NewDataSet>
+				<Table>
+					<ScriptId>284</ScriptId>
+					<FolderId>148</FolderId>
+					<ScriptName>_Send Email and Comment CW Ticket*</ScriptName>
+					<ScriptNotes>This function script is intended to send the email to the LTRunByUser's e-mail address, and will also post a comment to the ConnectWise ticket # provided.
+
+The following variables are expected to be declared in the parent script:
+
+@UserEmail@ - Defined once at top of parent script.
+@Ticket#@ - Script Parameter on parent script
+@LtTicketID@ - Defined once at top of script, e.g.) 4
+@AdminUser@ - Usually defined as 1
+@EmailSubject@ - Subject to be used for E-mail
+@MessageContent@</ScriptNotes>
+					<Permission>38,</Permission>
+					<EditPermission>38,</EditPermission>
+					<ComputerScript>1</ComputerScript>
+					<LocationScript>0</LocationScript>
+					<MaintenanceScript>0</MaintenanceScript>
+					<FunctionScript>1</FunctionScript>
+					<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMfvVnnzSy7HqWv81WbLyZ5ne7ujNK9nd176cGj+/cf3b+Xvvzi8V3vlcevp3Wxan8yr5uiWgJ2+IF+//m6mB09OJjsTPcPdrd3s/vn27u7+b3th9mnB9u7e/d27832zu/n05l5n194fNcf0W+c/D8nyuQi4QAAAA==</LicenseData>
+					<ScriptData>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</ScriptData>
+					<ScriptVersion>1</ScriptVersion>
+					<ScriptGuid>78b0c481-1a5f-11e3-9a68-12313d2f5ecd</ScriptGuid>
+					<ScriptFlags>1</ScriptFlags>
+					<Parameters></Parameters>
+				</Table>
+			</NewDataSet>
+			<PackedScript>
+				<NewDataSet>
+					<Table>
+						<ScriptId>5821</ScriptId>
+						<FolderId>148</FolderId>
+						<ScriptName>_Verify that CW Ticket Exists</ScriptName>
+						<ScriptNotes>6/8/2015 - Marcus - Initial Creation
+-------------------------------
+This script will determine whether or not the specified ConnectWise ticket number actually exists within our production ConnectWise server. This is being created to solve for when technicians accidently enter in an invalid ticket number, which results in creating tickets upon the default board, which undesirable. 
+
+Input:   @Ticket#@
+
+Output: @IsTicketValid@    (simply the declaration of this variable indicates that the ticket exists).</ScriptNotes>
+						<Permission>38,</Permission>
+						<EditPermission>38,</EditPermission>
+						<ComputerScript>1</ComputerScript>
+						<LocationScript>0</LocationScript>
+						<MaintenanceScript>0</MaintenanceScript>
+						<FunctionScript>0</FunctionScript>
+						<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffVEtZ9n1KP3OepmnOwejdG9n935679H9h4/2HqQvv3h812v8+PW0LlbtT+Z1U1RLQA0/0O8/XxezowcP7j8837m/s70zO3+wvbub399+mO/m2zv02f1PDyb7Dx58at7nFx7f9cfyGyf/D+PKBpLbAAAA</LicenseData>
+						<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+XxezowcP7j8837m/s70zO3+wvbub399+mO/m2zv02f1PDyb7Dx58aqDwC4yzftD4I3jd5is7iuNpqwjob/r5s/WS/z6b4TvvL3+Qu51B73X+vtf5e7/z932PHlXdHu0Qvvipn51Uy7ZYrnN8bn/X775snheLgl8xv+o3Z8tZvmwzHgx96//pk8RRYQNZ9jaQZW9nmC6gmf4W0Ofo4cMdPPrtXkitozfF9G3e/rh+e+9nm3Z7+xuJd+9nkXi7DzZw1dGnA9T7PZVAv2ecfjdxW4e+9wP67XbppzTb/bq897NJvq/Fex/9/qRdivPrtJ1nbXry3VTIkZ6+K5q2+SjdOnv6KL1/sLd7Z4A9X68nDaP7gvTb12LSvfdn0p9DIj/cQOTP6Em/l6av3xy/enP24vP09wyo83umjflznH4/PiEfqCzv/f+GlsKWxfJCONNKeVo0aZZeZmUxS1v+bDwe/6zQcj9Cy//X0vLBJuEPVVxXBezdTnEePXpRCSBtv7+Reve/aert/r+TekaxfrPU+/T/S9TbKMdKPZLYusgmZZ5OCf+sWDoppn/X+Th9WVfTPJ+xxFfpKq/Pq3qhIp6WVfV2vfrZkfMH70HrW9H6Z1POdw82+Ui/+1WxnBX17/77NtdNmy/u7f2+36UPqqvmZXWV16/neVn+vpe7453f1/09zt8Zs91l7e3Td/l0jY5eVmUxvU6fXL/MmibdflbQPH709NHvS3M2WzMqqYOYanjx+77O68timhuX4jnPYbqdqscReBrjVbP7UfqRVfMf3U6sbpjag/9P+W+bxOhD5+JZ3k7nnn/3NCchLAfJ/s1K2MP3l7CfwzBkkx896Ef/7g3IXefNumx/942RnIjBK27ZfC2HefdrhHX/L2VroJtN23RJ7nFa5+26XuazR6lx9wJa/Z7k6InJICzJSgixm3RZXf2scO3uUPT3/0oy38KFiXFel48PBnj3e6/X02neNCZs6XDs0SNR47dybnaHIr6vrZZ/Nr2bgLDfPGFPX716lJ5ky2XVpudkrNXjGSLzi2rJlM6Wt3Mkd4ciwv9X0nqjrvhqyf4jOYczJFIXxTJPi3PjIebMf+lszS3Wy/zdKp+2+Syt1u1qTQE3kY3VBqkLKBKdrZQsZf4orm9+drTK/6fCyt1NM9IZ6QdT5hsPGb95yniUubeJV7vR3jfMQ994eLjzs8hDm8PDeZ7+nmOb3LFR4qzKYdlVrtOq5rzPMs0Xq/Y6bdqaRNnK9O/6s0Pl/08FhrdKTJ7+3mc35SXtN+mz47Pnp09/tjKVu0Ox2f8rqWv04A9FD36NcOnnkDI36cGuv/LNshGCtW+WWD93qtBPdaU1+S3s4VBCZ5rBkeE8eDu3+ZQfT1d1dVnM4OOcWxeGlGidn5NTsyR3nXJs6h7xy6xUX3z5RpSqc4lI/H+2kuh7/58Kom5Uov8vU6J7/59aO/thKtG9/0+thN2gRIPY+hvmoG88HPm51p8/7hThtFqeF/UCurNKJzn7jyAlrzHI2qEnqlcF5UspOkSbdkAbfii1/z8V4nytROjAetjRWSPT8pNI4H2ttOfeNx71/KwS7xv3x6+yhr7gLNz5uvxdf7ZMyv+nop4fqkk5eHz3h04Z8/fTrM2OfuPk/wGEsl0xgCgAAA==</ScriptData>
+						<ScriptVersion>1</ScriptVersion>
+						<ScriptGuid>7759f050-0df7-11e5-9e1e-0050568b4776</ScriptGuid>
+						<ScriptFlags>0</ScriptFlags>
+						<Parameters></Parameters>
+					</Table>
+				</NewDataSet>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>148</FolderID>
+							<ParentID>4</ParentID>
+							<Name>Helper Scripts</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+				<ScriptFolder>
+					<NewDataSet>
+						<Table>
+							<FolderID>4</FolderID>
+							<ParentID>0</ParentID>
+							<Name>_System Commands</Name>
+						</Table>
+					</NewDataSet>
+				</ScriptFolder>
+			</PackedScript>
+			<ScriptFolder>
+				<NewDataSet>
+					<Table>
+						<FolderID>148</FolderID>
+						<ParentID>4</ParentID>
+						<Name>Helper Scripts</Name>
+					</Table>
+				</NewDataSet>
+			</ScriptFolder>
+			<ScriptFolder>
+				<NewDataSet>
+					<Table>
+						<FolderID>4</FolderID>
+						<ParentID>0</ParentID>
+						<Name>_System Commands</Name>
+					</Table>
+				</NewDataSet>
+			</ScriptFolder>
+		</PackedScript>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>54</FolderID>
+					<ParentID>0</ParentID>
+					<Name>Data Collection</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

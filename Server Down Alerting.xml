@@ -1,0 +1,52 @@
+﻿<LabTech_Expansion
+	Version="100.334"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5944</ScriptId>
+				<FolderId>130</FolderId>
+				<ScriptName>Server Down Alerting</ScriptName>
+				<ScriptNotes>This script runs against the individual user machines of the technicians in the server down team.
+
+It alerts when tickets of the following type are found:
+
+Board: LT-Partner Support
+Type: Infrastructure
+SubType: Server Down
+Status: New</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffVEtZ9n1KH2WT+p1Vl+nO7ujdG9n99P0waN7u492d9OXXzy+673w+PW0LlbtT+Z1U1RLQA4/0O8/Xxezo3xy/97D84Pz7enD7MH27m5+fzvLPt3b3sl3d8/z2d7Dh/fPzfv8wuO7/nh+4+T/AYmWGEvfAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo3xy/97D84Pz7enD7MH27m5+fzvLPt3b3sl3d8/z2d7Dh/fPDRR+gXHWDxp/BK/bfGVHcTxtFQH9TT9/tl7y32czfOf95Q9ytzPovc7f9zp/73f+vu/Ro6rbox3CFz/1s5Nq2RbLdY7P7e/63ZfN82JR8CvmV/3mbDnLl23Gg6Fv/T99kjgqbCDL3iay3Hs4TJijRy/rfPXdqn77+K5+8vOWUHs7G+i0G6fP0e9+VSxnRf27/75v8sXq932d15d5nT6trpbpcZnXNMKLcf4u15f3QmIevcza+Zvq1H5/772IuyvE/eaIu/+zSdxNTHgyz6dviVTpeVWn7TxPT3/v07Ra8q9lNc3KdJY3b9tqNR6Pf1b4dO//S6Tc3d3fQMvf0zLV7znAsoaVu9z4CGxbVtkM5P9aHHnvmybj3s8mGTey5KOTrCw9Qnyz/Lb/DRKKh3f/Z5NQmw3Izyqh7n/ThPpZNSCb6ASVdvquaNpmnD7PqNUcCq9of9efFbp9+k3T7WdVoe19uoFw1sI2102bL+7t/b7fpQ+qq+ZldZXXr+d5Wf6+l7vjnd/X/Q2Tm26TCpyuAfJlVRbT6/TJ9cusadLtZ2fPT9Mb1eQHTsCDgQnY/cYn4BuZgA2c2xnohxLm4JvmzJ9D1RcxmN8sFz38pon1c6r+iiZdFE0Dnzj9vM4mE9GA6XldLdLX9352NOHuzjdNw59NVbi3syGKPZq37ap5dPduc2+cLbIfVMvsqhlPq8Xdsl3V+aJYL+6+nBdlWazuSiTyCTj0k0gk0vUJWR22Fc2SUYdd73Dna3mEu994kPKz6hL+bHnW4P4XVZtSsN0Q6l+PlN94kPKzSsqfQ+969xuPQ34ObUycdTyCfRME+8bjkZ9TO/O0mC0/btMc3naaLWfpVZ5mq1VWEz7ldTqt1iU3mBnzXbTj9Onxi89PX6XfPXv+PH315ZOzF6+/fPG7/iyZpG88qvnZNEk/TOdw9xuPW24huebvp5JB/38AwFDa21AXAAA=</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>eb539f8f-c9a7-11e5-aa62-0e11fed2995f</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>130</FolderID>
+					<ParentID>17</ParentID>
+					<Name>PMarshall</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>17</FolderID>
+					<ParentID>0</ParentID>
+					<Name>_Test and Dev Scripts</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

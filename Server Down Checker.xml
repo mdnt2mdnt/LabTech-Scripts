@@ -1,0 +1,50 @@
+﻿<LabTech_Expansion
+	Version="100.334"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5943</ScriptId>
+				<FolderId>130</FolderId>
+				<ScriptName>Server Down Checker</ScriptName>
+				<ScriptNotes>This script runs against the LT server to hit the CW api via a custom PS exe. It checks if there are tickets that meet the following criteria:
+
+Board: LT-Partner Support
+Type: Infrastructure
+SubType: Server Down
+Status: New</ScriptNotes>
+				<Permission>0,</Permission>
+				<EditPermission>0,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffVEtZ9n1KH2WT+p1Vl+nO7ujdG9n99P0waN7u492d9OXXzy+673w+PW0LlbtT+Z1U1RLQA4/0O8/Xxezo529fPLg3s797enDvXvbu7v5/e0s+3Rveyff3T3PZ3sPH94/N+/zC4/v+uP5jZP/B632dxvfAAAA</LicenseData>
+				<ScriptData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih6/ntbFqn2atdnRb5ykqf7d8B/05+m7ts7w7bMiL2dNetd88TKrs0Xe5rX32edlNclK7wMB9pPUqKiWR7uP74YfBK0+Xxezo529fPLg3s797enDvXvbu7v5/e0s+3Rveyff3T3PZ3sPH94/N1D4BcZZP2j8Ebxu85UdxfG0VQT0N/382XrJf5/N8J33lz/I3c6g9zp/3+v8vd/5+75Hj6puj3YIX/zUz06qZVss1zk+t7/rd182z4tFwa+YX/Wbs+UsX7YZD4a+9f/0SeKosIEse5vIcu/hMGGOHr2s89V3q/rt47v6yc9bQu3tbKDTbpw+R88f/b5v6mzZnOf17/u6Om+vsjr/fV/n9WVeP62ulvprit/Tk3k+fZvX4/xdrtD2Quoevcza+Zvq1H5/7xbUdtTe/aapvf+zSe1NXMmUKpYX6XlVp+08T09/79O0WvKvZTXNyrRhuo7H458Vvt37/xIld3f3N5Dy97Q89XsOsLBh7S4zPgLTllU2A/W/FkPe+6bJuPezScaNHPnoJCtLjxDfLL/tfwChooS6/7NJqM0G5WeVUPe/aUL9rBqUTXSCRjt9VzRtM06fZ9RqDn1XtL/rzwrdPv2m6fazqtD2Pt1AuN/9qljOivp3/32b66bNF/f2ft/v0gfVVfOyusrr1/O8LH/fy93xzu/r/obFTbdJBU7XAPmyKovpdfrk+mXWNOn2s7Pnp+mNavIDJ+DBwATsfvAE/KxMwGaXMaubPH2VN+uybX5WqHXwTbPrz6E+jFjRb5ZYD79pYv2c6sSiSRdF05AyHKef19lkImoxPa+rRfr63s+Oetzd+aZp+LOpH/d2/FC3S8R5266aR3fvNvfG2SL7QbXMrprxtFrcLdtVnS+K9eLuy3lRlsXqrgQnn4BDP+kHJ10/kVVkW9EkGRXZ9Rh3vpaXuPuNxy0/q27iz5a3DeZ/UbUpBeQNof71SPmNBy4/q6T8OfS4d7/x2OTnysTsDrHON0ywbzxG+Tk1M0+L2fLjNs3hgafZcpZe5Wm2WlH2ZtmW1+m0WpfcYGasd9GO06fHLz4/fZV+9+z58/TVl0/OXrz+8sXv+rNkkb7xSOdn0yJtlOTOSD+YMt94LPNzKLkvP9yVvolcQ5HH1ybXz5nc2qwg0oA1hx9pdW7ygz9LcnjwTZPvZ1MOH+xsCpw5Fpaw7Xcf8E4OBryTNwU5h22TPqvWy1ncNTl69Ho6z2frMucZOS7z2lii/c0k/sYDmJ9Np2Ujh76o0mV+pclpth1pq5RjSzNGyqcFC0vn3wTPRrLXO980QX82efaHaTv2vvFQ4+fQdgyK2zerAfe+8Zji58yAsPYaktBxqgQ1FqZhBMyyU/BGni3S7IJG0PwsSfB7RCe3o/nPpgR/+mADzV+fvDp7+SZ9ffLt06dfUaL19ZvjN6dfnL54k37+5enr9Nunr05/ltbwvvGA5d7PIg038q2AbNJ5dpmnkzxfEm+K7M+sRflZYsQfhSFDlPm5CEPM30+zNjv6jZP/BzvDcnr7IwAA</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>02eb7305-c923-11e5-aa62-0e11fed2995f</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>130</FolderID>
+					<ParentID>17</ParentID>
+					<Name>PMarshall</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>17</FolderID>
+					<ParentID>0</ParentID>
+					<Name>_Test and Dev Scripts</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>

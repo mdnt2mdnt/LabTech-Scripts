@@ -1,0 +1,45 @@
+﻿<LabTech_Expansion
+	Version="100.334"
+	Name="LabTech Script Expansion"
+	Type="PackedScript">
+	<PackedScript>
+		<NewDataSet>
+			<Table>
+				<ScriptId>5945</ScriptId>
+				<FolderId>130</FolderId>
+				<ScriptName>Solution Center Updates</ScriptName>
+				<ScriptNotes></ScriptNotes>
+				<Permission>38,</Permission>
+				<EditPermission>38,</EditPermission>
+				<ComputerScript>1</ComputerScript>
+				<LocationScript>0</LocationScript>
+				<MaintenanceScript>0</MaintenanceScript>
+				<FunctionScript>0</FunctionScript>
+				<LicenseData>H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3mkuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZkAWz2zkrayZ4hgKrIHz9+fB8/Ih4/L6b5ssmfZm129PjN9So/2n18l38+frVenlTrZZvXRzuP73p/PT59typqvJMffTefLfNmll2P0mf5pF5n9XW6c2+U7u3sfpref7T74NH+p+nLLx7f9d55/HpaF6v2J/O6KaolgIcf6Pefr4vZUf7p/vRBtvtwe5o9nG7v7ub3t7Ps073tnXx39zyf7T18eP/cvM8vPL7rD+k3Tv4fcYiL7eIAAAA=</LicenseData>
+				<ScriptData>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</ScriptData>
+				<ScriptVersion>1</ScriptVersion>
+				<ScriptGuid>e64c7a19-ca9c-11e5-aa62-0e11fed2995f</ScriptGuid>
+				<ScriptFlags>0</ScriptFlags>
+				<Parameters></Parameters>
+			</Table>
+		</NewDataSet>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>130</FolderID>
+					<ParentID>17</ParentID>
+					<Name>PMarshall</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+		<ScriptFolder>
+			<NewDataSet>
+				<Table>
+					<FolderID>17</FolderID>
+					<ParentID>0</ParentID>
+					<Name>_Test and Dev Scripts</Name>
+				</Table>
+			</NewDataSet>
+		</ScriptFolder>
+	</PackedScript>
+</LabTech_Expansion>
